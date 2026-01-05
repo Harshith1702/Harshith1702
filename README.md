@@ -71,7 +71,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 
 | Platform | Stats | Focus Areas |
 |----------|-------|-------------|
-| 🟡 **LeetCode** | **129+ Problems Solved(ongoing)** | Arrays, Strings, Trees, Dynamic Programming |
+| 🟡 **LeetCode** | **129+ Problems Solved** | Arrays, Strings, Trees, Dynamic Programming |
 | 🟤 **CodeChef** | Active Participant | Contest Participation & Practice |
 | 🔵 **Codeforces** | Regular Contests | Algorithmic Problem Solving |
 | 💡 **SmartInterviews** | Consistent Practice | Interview Preparation |
@@ -81,10 +81,6 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 ---
 
 ## 🛠️ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
 
 ### 💬 Open Chat Application
 **Real-time multi-user chat platform**
@@ -98,8 +94,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/Open_Chat_Application)
 
-</td>
-<td width="50%">
+---
 
 ### 💬 Node.js Real-Time Chat
 **Backend-focused chat application**
@@ -113,11 +108,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/nodejs-real-time-chat)
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### ✅ Eclipse Attendance App
 **QR-based attendance tracking system**
@@ -131,8 +122,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/eclipse-attendance-app)
 
-</td>
-<td width="50%">
+---
 
 ### 👥 Social Media Follower System
 **Console-based social network in C**
@@ -146,12 +136,15 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/Social_Media_Follower_System_C)
 
-</td>
-</tr>
-</table>
+---
 
 ### 🤖 Smart Dustbin (Arduino)
-IoT project with automated lid control using IR sensor and servo motor. Demonstrates hardware-software integration and embedded systems fundamentals.
+**IoT automation project**
+
+🔹 Automated lid control using IR sensor and servo motor  
+🔹 Hardware-software integration demonstration  
+
+**Tech:** Arduino • C++ • IoT
 
 ---
 
@@ -168,11 +161,11 @@ IoT project with automated lid control using IR sensor and servo motor. Demonstr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshith1702&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshith1702&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshith1702&theme=radical&hide_border=true)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshith1702&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith1702&layout=compact&theme=radical&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith1702&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
