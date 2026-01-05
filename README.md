@@ -87,7 +87,8 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 🔹 Built with Node.js, Express & Socket.IO  
 🔹 Live messaging with WebSocket protocol  
 🔹 Real-time user presence tracking  
-🔹 Join/leave notifications  
+🔹 Join/leave notifications
+🔹 Deployed on Render (public demo available)
 
 **Tech:** Node.js • Express • Socket.IO • JavaScript
 
