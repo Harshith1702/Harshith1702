@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Harshith!
 
-### 💻 Backend Developer | 🧠 Problem Solver | 🚀 Builder
+### 💻 Aspiring Backend Developer | 🧠 Problem Solver | 🚀 Builder
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-129%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harshith-2007/)
 [![GitHub](https://img.shields.io/badge/GitHub-Harshith1702-181717?style=for-the-badge&logo=github)](https://github.com/Harshith1702)
@@ -16,7 +16,7 @@
 
 ```javascript
 const harshith = {
-    location: "Hyderabad, India 🇮🇳",
+    location: "Hyderabad, India ",
     education: "B.Tech CSE @ CMR Technical Campus",
     graduation: 2028,
     currentFocus: ["Backend Development", "Real-Time Systems", "DSA"],
@@ -33,7 +33,6 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 
 - 🔥 Solving DSA problems daily across **LeetCode, CodeChef & Codeforces**
 - 🛠️ Building backend projects with **Node.js** and exploring system design
-- 📚 Deep diving into **Data Structures & Algorithms**
 - 🎓 Participating in hackathons and coding competitions
 - 💼 Actively seeking **internship opportunities** to apply my skills
 
@@ -71,7 +70,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 
 | Platform | Stats | Focus Areas |
 |----------|-------|-------------|
-| 🟡 **LeetCode** | **129+ Problems Solved** | Arrays, Strings, Trees, Dynamic Programming |
+| 🟡 **LeetCode** | **129+ Problems Solved (ongoing)** | Arrays, Strings, Trees, Dynamic Programming |
 | 🟤 **CodeChef** | Active Participant | Contest Participation & Practice |
 | 🔵 **Codeforces** | Regular Contests | Algorithmic Problem Solving |
 | 💡 **SmartInterviews** | Consistent Practice | Interview Preparation |
@@ -104,7 +103,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 🔹 Message flow management  
 🔹 Server-side state management  
 
-**Tech:** Node.js • Express • WebSockets
+**Tech:** Node.js • Express 
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/nodejs-real-time-chat)
 
@@ -156,18 +155,6 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 - 🔧 **IoT Bootcamp** - Sansa Innovations Pvt. Ltd.
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshith1702&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshith1702&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith1702&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
 
 ---
 
