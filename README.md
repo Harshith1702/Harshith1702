@@ -4,7 +4,7 @@
 
 ### 💻 Aspiring Backend Developer | 🧠 Problem Solver | 🚀 Builder
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-130%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harshith-2007/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harshith-2007/)
 [![GitHub](https://img.shields.io/badge/GitHub-Harshith1702-181717?style=for-the-badge&logo=github)](https://github.com/Harshith1702)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshith-p-17022007v/)
 
@@ -70,7 +70,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 
 | Platform | Stats | Focus Areas |
 |----------|-------|-------------|
-| 🟡 **LeetCode** | **130+ Problems Solved (ongoing)** | Arrays, Strings, Trees, Dynamic Programming |
+| 🟡 **LeetCode** | **150+ Problems Solved (ongoing)** | Arrays, Strings, Trees, Dynamic Programming |
 | 🟤 **CodeChef** | Active Participant | Contest Participation & Practice |
 | 🔵 **Codeforces** | Regular Contests | Algorithmic Problem Solving |
 | 💡 **SmartInterviews** | Consistent Practice | Interview Preparation |
