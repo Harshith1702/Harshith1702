@@ -71,7 +71,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 | Platform | Stats | Focus Areas |
 |----------|-------|-------------|
 | 🟡 **[LeetCode](https://leetcode.com/u/Harshith-2007/)** | **150+ Problems Solved** | Arrays, Strings, Trees, DP, Graphs |
-| 🟤 **CodeChef** | Active Participant | Contest Participation & Practice |
+| 🟤 **[CodeChef](https://www.codechef.com/users/harshith_2007)** | Active Participant | Contest Participation & Practice |
 | 🔵 **Codeforces** | Regular Contests | Algorithmic Problem Solving |
 | 💡 **SmartInterviews** | Consistent Practice | Interview Preparation |
 
@@ -128,8 +128,8 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 ### 💬 Node.js Real-Time Chat
 **Minimal backend architecture exploration**
 
-🔹 Lightweight Express server with WebSocket
-🔹 Focus on server-side connection management <br> 
+🔹 Lightweight Express server with WebSocket <br> 
+🔹 Focus on server-side connection management
 🔹 Foundation for Open Chat Application
 
 **Tech:** Node.js • Express 
