@@ -70,8 +70,8 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 
 | Platform | Stats | Focus Areas |
 |----------|-------|-------------|
-| 🟡 **[LeetCode](https://leetcode.com/u/Harshith-2007/)** | **150+ Problems Solved** | Arrays, Strings, Trees, DP, Graphs |
-| 🟤 **[CodeChef](https://www.codechef.com/users/harshith_2007)** | **120+ Problems Solved** | Contest Participation & Practice |
+| 🟡 **[LeetCode](https://leetcode.com/u/Harshith-2007/)** | **150+ Problems Solved (ongoing)** | Arrays, Strings, Trees, DP, Graphs |
+| 🟤 **[CodeChef](https://www.codechef.com/users/harshith_2007)** | **120+ Problems Solved (ongoing)** | Contest Participation & Practice |
 | 🔵 **Codeforces** | Regular Contests | Algorithmic Problem Solving |
 | 💡 **SmartInterviews** | Consistent Practice | Interview Preparation |
 
@@ -90,6 +90,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 - Dark-themed responsive UI (mobile + desktop)  
 
 🚀 **[Try Live Demo](https://open-chat-application-ubti.onrender.com)**
+>Note: Hosted on Render's free tier. Initial load may take 30-60 seconds if the service is idle.
 
 **Tech:** Node.js • Express • Socket.IO • JavaScript
 
