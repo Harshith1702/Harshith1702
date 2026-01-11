@@ -129,7 +129,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 **Minimal backend architecture exploration**
 
 🔹 Lightweight Express server with WebSocket
-🔹 Focus on server-side connection management  
+🔹 Focus on server-side connection management <br> 
 🔹 Foundation for Open Chat Application
 
 **Tech:** Node.js • Express 
