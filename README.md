@@ -16,11 +16,11 @@
 
 ```javascript
 const harshith = {
-    location: "Hyderabad, India ",
+    location: "Hyderabad, India",
     education: "B.Tech CSE @ CMR Technical Campus",
     graduation: 2028,
     currentFocus: ["Backend Development", "Real-Time Systems", "DSA"],
-    lookingFor: "Software Development Internship Opportunities",
+    lookingFor: "Backend Development Internship Opportunities (Summer 2026)",
     funFact: "I learn best by breaking things and rebuilding them better!"
 };
 ```
@@ -70,7 +70,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 
 | Platform | Stats | Focus Areas |
 |----------|-------|-------------|
-| 🟡 **LeetCode** | **150+ Problems Solved (ongoing)** | Arrays, Strings, Trees, Dynamic Programming |
+| 🟡 **[LeetCode](https://leetcode.com/u/Harshith-2007/)** | **150+ Problems Solved** | Arrays, Strings, Trees, DP, Graphs |
 | 🟤 **CodeChef** | Active Participant | Contest Participation & Practice |
 | 🔵 **Codeforces** | Regular Contests | Algorithmic Problem Solving |
 | 💡 **SmartInterviews** | Consistent Practice | Interview Preparation |
@@ -82,31 +82,18 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 ## 🛠️ Featured Projects
 
 ### 💬 Open Chat Application
-**Real-time multi-user chat platform**
+**Real-time room-based chat with WebSocket | Node.js + Socket.IO**
 
-🔹 Built with Node.js, Express & Socket.IO  
-🔹 Live messaging with WebSocket protocol  
-🔹 Real-time user presence tracking  
-🔹 Join/leave notifications<br>
-🔹 Deployed on Render (public demo available)
+- Public/Private rooms with password protection  
+- Live typing indicators & user presence  
+- 101 concurrent rooms, customizable capacity  
+- Dark-themed responsive UI (mobile + desktop)  
+
+🚀 **[Try Live Demo](https://open-chat-application-ubti.onrender.com)**
 
 **Tech:** Node.js • Express • Socket.IO • JavaScript
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/Open_Chat_Application)
-
----
-
-### 💬 Node.js Real-Time Chat
-**Backend-focused chat application**
-
-🔹 Clean backend architecture  
-🔹 Multiple client connection handling  
-🔹 Message flow management  
-🔹 Server-side state management  
-
-**Tech:** Node.js • Express 
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/nodejs-real-time-chat)
 
 ---
 
@@ -135,6 +122,19 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 **Tech:** C • Data Structures
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/Social_Media_Follower_System_C)
+
+---
+
+### 💬 Node.js Real-Time Chat
+**Minimal backend architecture exploration**
+
+🔹 Lightweight Express server with WebSocket
+🔹 Focus on server-side connection management  
+🔹 Foundation for Open Chat Application
+
+**Tech:** Node.js • Express 
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/nodejs-real-time-chat)
 
 ---
 
