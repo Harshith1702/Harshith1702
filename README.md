@@ -71,7 +71,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 | Platform | Stats | Focus Areas |
 |----------|-------|-------------|
 | 🟡 **[LeetCode](https://leetcode.com/u/Harshith-2007/)** | **150+ Problems Solved** | Arrays, Strings, Trees, DP, Graphs |
-| 🟤 **[CodeChef](https://www.codechef.com/users/harshith_2007)** | Active Participant | Contest Participation & Practice |
+| 🟤 **[CodeChef](https://www.codechef.com/users/harshith_2007)** | **120+ Problems Solved** | Contest Participation & Practice |
 | 🔵 **Codeforces** | Regular Contests | Algorithmic Problem Solving |
 | 💡 **SmartInterviews** | Consistent Practice | Interview Preparation |
 
@@ -129,7 +129,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 **Minimal backend architecture exploration**
 
 🔹 Lightweight Express server with WebSocket <br> 
-🔹 Focus on server-side connection management
+🔹 Focus on server-side connection management<br>
 🔹 Foundation for Open Chat Application
 
 **Tech:** Node.js • Express 
@@ -166,6 +166,7 @@ I'm a sophomore CS student who loves turning ideas into code. Whether it's build
 [![Email](https://img.shields.io/badge/Email-harshaharshith31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaharshith31@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshith_P-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshith-p-17022007v/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Harshith--2007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harshith-2007/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshith_2007)
 [![GitHub](https://img.shields.io/badge/GitHub-Harshith1702-181717?style=for-the-badge&logo=github)](https://github.com/Harshith1702)
 
 </div>
