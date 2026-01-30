@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey there, I'm Harshith!
+# 👋 Hi, I'm Harshith
 
-### 💻 Aspiring Backend Developer | 🧠 Problem Solver | 🚀 Builder
+### Backend Developer | Problem Solver | Builder
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harshith-2007/)
 [![GitHub](https://img.shields.io/badge/GitHub-Harshith1702-181717?style=for-the-badge&logo=github)](https://github.com/Harshith1702)
@@ -14,174 +14,126 @@
 
 ## 🚀 About Me
 
-```javascript
-const harshith = {
-    location: "Hyderabad, India",
-    education: "B.Tech CSE @ CMR Technical Campus",
-    graduation: 2028,
-    currentFocus: ["Backend Development", "Real-Time Systems", "DSA"],
-    lookingFor: "Backend Development Internship Opportunities (Summer 2026)",
-    funFact: "I learn best by breaking things and rebuilding them better!"
-};
-```
+Backend-focused CS student (B.Tech CSE, graduating 2028) based in Hyderabad.
 
-I'm a sophomore CS student who loves turning ideas into code. Whether it's building **real-time chat applications** that connect people instantly or grinding **LeetCode problems** at midnight, I'm all about learning by doing. My passion lies in **backend systems** and creating applications that actually solve problems.
+I build real-time applications using Node.js and Socket.IO, and practice DSA daily in Java.  
+Currently seeking Backend Internship opportunities for Summer 2026.
+
+I focus on writing clean backend logic and learning by building real projects.
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 What I'm Working On
 
-- 🔥 Solving DSA problems daily across **LeetCode, CodeChef & Codeforces**
-- 🛠️ Building backend projects with **Node.js** and exploring system design
-- 🎓 Participating in hackathons and coding competitions
-- 💼 Actively seeking **internship opportunities** to apply my skills
+- Solving DSA daily on LeetCode, CodeChef, and Codeforces  
+- Building backend projects with Node.js and Express  
+- Exploring real-time systems and basic system design  
+- Participating in hackathons and coding contests  
 
 ---
 
 ## 💻 Tech Stack
 
-<div align="center">
+### Primary
+- Java  
+- JavaScript  
+- Node.js  
+- Express  
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Also familiar with
+- C  
+- Python  
+- HTML/CSS  
+- Socket.IO  
 
-### Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Competitive Programming
-
-<div align="center">
-
-| Platform | Stats | Focus Areas |
-|----------|-------|-------------|
-| 🟡 **[LeetCode](https://leetcode.com/u/Harshith-2007/)** | **200+ Problems Solved (ongoing)** | Arrays, Strings, Trees, DP, Graphs |
-| 🟤 **[CodeChef](https://www.codechef.com/users/harshith_2007)** | **120+ Problems Solved (ongoing)** | Contest Participation & Practice |
-| 🔵 **Codeforces** | Regular Contests | Algorithmic Problem Solving |
-| 💡 **SmartInterviews** | Consistent Practice | Interview Preparation |
-
-</div>
+Tools: Git • GitHub • VS Code
 
 ---
 
 ## 🛠️ Featured Projects
 
-### 💬 Open Chat Application
-**Real-time room-based chat with WebSocket | Node.js + Socket.IO**
+### 💬 Open Chat Application  
+Real-time, room-based chat system built with Node.js, Express, and Socket.IO.
 
-- Public/Private rooms with password protection  
-- Live typing indicators & user presence  
-- 101 concurrent rooms, customizable capacity  
-- Dark-themed responsive UI (mobile + desktop)  
+- Public and private rooms with password protection  
+- Live typing indicators and user presence  
+- Up to 100 users per room  
+- Deployed Express backend  
+- Responsive UI for mobile and desktop  
 
-🚀 **[Try Live Demo](https://open-chat-application-ubti.onrender.com)**
->Note: Hosted on Render's free tier. Initial load may take 30-60 seconds if the service is idle.
+This project helped me understand WebSocket communication, server-side state management, and real-time event handling.  
+Built after learning core socket handling in a smaller Node.js real-time chat foundation project.
 
-**Tech:** Node.js • Express • Socket.IO • JavaScript
+🚀 Live Demo: https://open-chat-application-ubti.onrender.com  
+(Free-tier hosting — first load may take ~30–60 seconds)
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/Open_Chat_Application)
-
----
-
-### ✅ Eclipse Attendance App
-**QR-based attendance tracking system**
-
-🔹 Teacher & Student dashboards  
-🔹 Session management  
-🔹 CSV export functionality  
-🔹 Responsive frontend design  
-
-**Tech:** HTML • CSS • JavaScript
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/eclipse-attendance-app)
+Tech: Node.js • Express • Socket.IO • JavaScript  
+Code: https://github.com/Harshith1702/Open_Chat_Application
 
 ---
 
-### 👥 Social Media Follower System
-**Console-based social network in C**
+### ✅ Eclipse Attendance App  
+QR-based attendance tracking system.
 
-🔹 Follow/unfollow operations  
-🔹 Mutual follower suggestions  
-🔹 Pure C implementation  
-🔹 Structured programming practice  
+- Teacher and student dashboards  
+- Session management  
+- CSV export  
+- Responsive frontend  
 
-**Tech:** C • Data Structures
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/Social_Media_Follower_System_C)
-
----
-
-### 💬 Node.js Real-Time Chat
-**Minimal backend architecture exploration**
-
-🔹 Lightweight Express server with WebSocket <br> 
-🔹 Focus on server-side connection management<br>
-🔹 Foundation for Open Chat Application
-
-**Tech:** Node.js • Express 
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/Harshith1702/nodejs-real-time-chat)
+Tech: HTML • CSS • JavaScript  
+Code: https://github.com/Harshith1702/eclipse-attendance-app
 
 ---
 
-### 🤖 Smart Dustbin (Arduino)
-**IoT automation project**
+### 👥 Social Media Follower System (C)  
+Console-based social network simulation.
 
-🔹 Automated lid control using IR sensor and servo motor  
-🔹 Hardware-software integration demonstration  
+- Follow / unfollow operations  
+- Mutual follower suggestions  
+- Pure C implementation  
 
-**Tech:** Arduino • C++ • IoT
-
----
-
-## 📜 Certifications & Achievements
-
-- 🏆 **Technovanza 5.0 Internal Hackathon** - Participant (SIH 2025)
-- 📜 **C Programming** - Spoken Tutorial, IIT Bombay
-- 📜 **Python Developer** - SoloLearn
-- 🔧 **IoT Bootcamp** - Sansa Innovations Pvt. Ltd.
+Tech: C • Data Structures  
+Code: https://github.com/Harshith1702/Social_Media_Follower_System_C
 
 ---
 
----
+### 🧰 Other Small Projects
 
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-harshaharshith31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaharshith31@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshith_P-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshith-p-17022007v/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Harshith--2007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harshith-2007/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshith_2007)
-[![GitHub](https://img.shields.io/badge/GitHub-Harshith1702-181717?style=for-the-badge&logo=github)](https://github.com/Harshith1702)
-
-</div>
+- Node.js Real-Time Chat (foundation for Open Chat)  
+- Web Scraper (basic data extraction utility)  
+- Smart Dustbin (Arduino IoT automation)  
 
 ---
 
-<div align="center">
+## 🏆 Competitive Programming
 
-### 💡 Open to collaborations, internships, and interesting projects!
+- LeetCode: 200+ problems solved (actively increasing)  
+- CodeChef: 130+ problems solved with regular contest participation  
+- Codeforces: Regular contest participation  
+- Focus: recursion, trees, graphs, DP basics, and problem-solving patterns  
 
-**"Code is like humor. When you have to explain it, it's bad." - Cory House**
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=blueviolet&style=for-the-badge)
+## 📜 Achievements
 
-⭐ Feel free to star my repositories if you find them interesting!
+- Technovanza 5.0 Internal Hackathon (SIH 2025)  
+- IoT Bootcamp – Sansa Innovations Pvt. Ltd.  
 
-</div>
+---
+
+## 📫 Connect
+
+- Email: harshaharshith31@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/harshith-p-17022007v/  
+- GitHub: https://github.com/Harshith1702  
+- LeetCode: https://leetcode.com/u/Harshith-2007/  
+
+---
+
+Actively seeking backend internships and open to collaborations.
+
+Profile views don't matter — projects do.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&style=flat-square)
+
+Feel free to explore my repositories.
