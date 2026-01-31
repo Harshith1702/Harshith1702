@@ -108,7 +108,7 @@ Code: https://github.com/Harshith1702/Social_Media_Follower_System_C
 ## 🏆 Competitive Programming
 
 - LeetCode: 200+ problems solved (actively increasing)  
-- CodeChef: 130+ problems solved with regular contest participation  
+- CodeChef: 140+ problems solved with regular contest participation  
 - Codeforces: Regular contest participation  
 - Focus: recursion, trees, graphs, DP basics, and problem-solving patterns  
 
