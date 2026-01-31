@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Harshith
+# Hi, I'm Harshith
 
 ### Backend Developer | Problem Solver | Builder
 
