@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:006064,100:000000&height=160&section=header&text=PADAKANTI%20HARSHITH&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=CS%20undergrad%20who%20builds%20real%20things%20and%20solves%20problems&descSize=13&descAlignY=80&descAlign=50&descColor=aaaaaa" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=aaaaaa&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Builder.+Not+a+talker.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=ffffffcolor=aaaaaa&centercenter=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Builder.+Not+a+talker.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
 
 ```java
 class Harshith {
@@ -33,7 +32,7 @@ class Harshith {
 }
 ```
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
 
 <br/>
 
@@ -43,7 +42,7 @@ Backend-focused CS student based in Hyderabad. I build real-time applications us
 
 Currently seeking **Backend Internship opportunities for Summer 2026**.
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
 
 <br/>
 
@@ -63,7 +62,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
 
 <br/>
 
@@ -75,7 +74,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
 
 <br/>
 
@@ -91,7 +90,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
 
 <br/>
 
@@ -111,7 +110,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
 
 <br/>
 
@@ -123,7 +122,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 **LeetCode Discord Reporter** · [`Harshith1702/leetcode-discord-reporter`](https://github.com/Harshith1702/leetcode-discord-reporter)
 > Posts daily solved problems to Discord at 10:15 PM IST — GitHub Actions + cron-job.org + session auth
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
 
 <br/>
 
@@ -141,7 +140,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
 
 <br/>
 
@@ -164,7 +163,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
 
 <br/>
 
@@ -175,7 +174,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 - 🎓 Introduction to Artificial Intelligence — Google
 - 🔧 IoT Bootcamp — Sansa Innovations Pvt. Ltd.
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
 
 <br/>
 
@@ -203,5 +202,3 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:006064,100:00bcd4&height=100&section=footer" />
