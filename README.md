@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:0d0d0d,100:000000&height=160&section=header&text=PADAKANTI%20HARSHITH&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=CS%20undergrad%20who%20builds%20real%20things%20and%20solves%20problems&descSize=13&descAlignY=80&descAlign=50&descColor=888888" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:3d0000,100:000000&height=160&section=header&text=PADAKANTI%20HARSHITH&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=CS%20undergrad%20who%20builds%20real%20things%20and%20solves%20problems&descSize=13&descAlignY=80&descAlign=50&descColor=aaaaaa" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1200&color=777777&center=true&vCenter=true&width=650&lines=Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Backend+%7C+Real-Time+Systems+%7C+DSA;Builder.+Not+a+talker.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=aaaaaa&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Builder.+Not+a+talker.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
 
 ```java
 class Harshith {
@@ -29,19 +29,29 @@ class Harshith {
         "daily contests — consistency over everything"
     };
 
-    String   openTo     = "Internships · OSS · Interesting problems";
+    String   openTo     = "Backend Internships · OSS · Interesting problems";
 }
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+
 <br/>
 
----
+## ◾ About
+
+Backend-focused CS student based in Hyderabad. I build real-time applications using Node.js and Socket.IO, and practice DSA daily in Java. Clean backend logic, real projects, no fluff.
+
+Currently seeking **Backend Internship opportunities for Summer 2026**.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+
+<br/>
 
 ## ◾ GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Harshith1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=888888&include_all_commits=true&count_private=true&ring_color=ffffff" />
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Harshith1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=888888&include_all_commits=true&count_private=true&ring_color=ff0000" />
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith1702&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&langs_count=6" />
 
@@ -49,25 +59,25 @@ class Harshith {
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Harshith1702&theme=github-dark-blue&hide_border=true&background=000000&stroke=111111&ring=ffffff&fire=cccccc&currStreakLabel=888888&sideLabels=666666&currStreakNum=ffffff&sideNums=cccccc&dates=555555)](https://github.com/Harshith1702)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Harshith1702&theme=github-dark-blue&hide_border=true&background=000000&stroke=8b0000&ring=ff0000&fire=ff4444&currStreakLabel=aaaaaa&sideLabels=888888&currStreakNum=ffffff&sideNums=cccccc&dates=555555)](https://github.com/Harshith1702)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
 
----
+<br/>
 
 ## ◾ Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshith1702&bg_color=000000&color=666666&line=888888&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Harshith1702)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshith1702&bg_color=000000&color=888888&line=8b0000&point=ff0000&area=true&area_color=1a0000&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Harshith1702)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
 
----
+<br/>
 
 ## ◾ Snake
 
@@ -81,9 +91,9 @@ class Harshith {
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
 
----
+<br/>
 
 ## ◾ Competitive Programming
 
@@ -101,9 +111,9 @@ class Harshith {
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
 
----
+<br/>
 
 ## ◾ Open Source
 
@@ -113,9 +123,9 @@ class Harshith {
 **LeetCode Discord Reporter** · [`Harshith1702/leetcode-discord-reporter`](https://github.com/Harshith1702/leetcode-discord-reporter)
 > Posts daily solved problems to Discord at 10:15 PM IST — GitHub Actions + cron-job.org + session auth
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
 
----
+<br/>
 
 ## ◾ Projects
 
@@ -126,12 +136,14 @@ class Harshith {
 | **Open Chat App** — real-time rooms, password-protected, typing indicators, 100-user cap | `Node.js` `Express` `Socket.IO` | [**Live ↗**](https://open-chat-application-ubti.onrender.com) · [**Code**](https://github.com/Harshith1702/Open_Chat_Application) |
 | **Eclipse Attendance** — QR-based, teacher/student dashboards, CSV export, fully browser-side | `HTML` `CSS` `JS` | [**Code**](https://github.com/Harshith1702/eclipse-attendance-app) |
 | **Social Media Follower System** — graphs from scratch: follow/unfollow, mutual suggestions | `C` `DSA` | [**Code**](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
+| **Web Scraper** — basic data extraction in Java + Python | `Java` `Python` | [**Code**](https://github.com/Harshith1702/Web_Scraper) |
+| **Smart Dustbin** — IR sensor + servo motor automation | `Arduino` `C++` `IoT` | — |
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
 
----
+<br/>
 
 ## ◾ Stack
 
@@ -152,9 +164,20 @@ class Harshith {
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+
 <br/>
 
----
+## ◾ Achievements
+
+- 🏆 Technovanza 5.0 Internal Hackathon — selected for SIH 2025
+- 🎓 Discover the Art of Prompting — Google
+- 🎓 Introduction to Artificial Intelligence — Google
+- 🔧 IoT Bootcamp — Sansa Innovations Pvt. Ltd.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+
+<br/>
 
 ## ◾ Connect
 
@@ -169,12 +192,16 @@ class Harshith {
 
 <br/>
 
----
-
 <div align="center">
+
+*Actively seeking backend internships and open to collaborations.*
+
+*Profile views don't matter — projects do.*
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=ff0000&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:0d0000,100:000000&height=100&section=footer" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3d0000,100:8b0000&height=100&section=footer" />
