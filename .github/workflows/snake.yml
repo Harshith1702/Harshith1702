@@ -13,8 +13,8 @@ jobs:
         with:
           github_user_name: Harshith1702
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=00ffff&color_dots=#1a1a1a,#1a4d1a,#266626,#39ac39,#57d657
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00ffff&color_dots=#1a1a1a,#1a4d1a,#266626,#39ac39,#57d657
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
