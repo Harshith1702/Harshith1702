@@ -76,9 +76,9 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
