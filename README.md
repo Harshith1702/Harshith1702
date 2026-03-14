@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=160&section=header&text=PADAKANTI%20HARSHITH&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=CS%20undergrad%20who%20builds%20real%20things%20and%20solves%20problems&descSize=13&descAlignY=80&descAlign=50&descColor=666666" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:0d0d0d,100:000000&height=160&section=header&text=PADAKANTI%20HARSHITH&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=CS%20undergrad%20who%20builds%20real%20things%20and%20solves%20problems&descSize=13&descAlignY=80&descAlign=50&descColor=888888" />
 
 <br/>
 
@@ -173,8 +173,8 @@ class Harshith {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=footer" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=ff0000&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:0d0000,100:000000&height=100&section=footer" />
 
 </div>
