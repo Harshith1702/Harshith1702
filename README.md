@@ -1,15 +1,12 @@
 <div align="center">
 
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=ffffffcolor=aaaaaa&centercenter=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Builder.+Not+a+talker.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=555555&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Builder.+Not+a+talker.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
+---
 
 ```java
 class Harshith {
@@ -32,9 +29,7 @@ class Harshith {
 }
 ```
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
-
-<br/>
+---
 
 ## ◾ About
 
@@ -42,9 +37,7 @@ Backend-focused CS student based in Hyderabad. I build real-time applications us
 
 Currently seeking **Backend Internship opportunities for Summer 2026**.
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
-
-<br/>
+---
 
 ## ◾ GitHub Stats
 
@@ -62,9 +55,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
-
-<br/>
+---
 
 ## ◾ Contribution Graph
 
@@ -74,9 +65,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
-
-<br/>
+---
 
 ## ◾ Snake
 
@@ -90,9 +79,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
-
-<br/>
+---
 
 ## ◾ Competitive Programming
 
@@ -110,9 +97,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
-
-<br/>
+---
 
 ## ◾ Open Source
 
@@ -122,9 +107,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 **LeetCode Discord Reporter** · [`Harshith1702/leetcode-discord-reporter`](https://github.com/Harshith1702/leetcode-discord-reporter)
 > Posts daily solved problems to Discord at 10:15 PM IST — GitHub Actions + cron-job.org + session auth
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
-
-<br/>
+---
 
 ## ◾ Projects
 
@@ -135,14 +118,12 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 | **Open Chat App** — real-time rooms, password-protected, typing indicators, 100-user cap | `Node.js` `Express` `Socket.IO` | [**Live ↗**](https://open-chat-application-ubti.onrender.com) · [**Code**](https://github.com/Harshith1702/Open_Chat_Application) |
 | **Eclipse Attendance** — QR-based, teacher/student dashboards, CSV export, fully browser-side | `HTML` `CSS` `JS` | [**Code**](https://github.com/Harshith1702/eclipse-attendance-app) |
 | **Social Media Follower System** — graphs from scratch: follow/unfollow, mutual suggestions | `C` `DSA` | [**Code**](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
-| **Web Scraper** — basic data extraction in Java + Python | `Java` `Python` | [**Code**](https://github.com/Harshith1702/Web_Scraper) |
+| **Web Scraper** — data extraction in Java + Python | `Java` `Python` | [**Code**](https://github.com/Harshith1702/Web_Scraper) |
 | **Smart Dustbin** — IR sensor + servo motor automation | `Arduino` `C++` `IoT` | — |
 
 </div>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
-
-<br/>
+---
 
 ## ◾ Stack
 
@@ -163,9 +144,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
-
-<br/>
+---
 
 ## ◾ Achievements
 
@@ -174,9 +153,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 - 🎓 Introduction to Artificial Intelligence — Google
 - 🔧 IoT Bootcamp — Sansa Innovations Pvt. Ltd.
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />color=00bcd4<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />height=2<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />section=header" />
-
-<br/>
+---
 
 ## ◾ Connect
 
