@@ -69,20 +69,6 @@ class Harshith {
 
 ---
 
-## ◾ 3D Contribution Calendar
-
-<div align="center">
-
-![3D Contribution Calendar](./profile-3d-contrib/profile-green-animate.svg)
-
-</div>
-
-> *auto-updates daily via GitHub Actions*
-
-<br/>
-
----
-
 ## ◾ Snake
 
 <div align="center">
@@ -189,6 +175,6 @@ class Harshith {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=footer" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=aaaaaa&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=ff0000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
