@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:3d0000,100:000000&height=160&section=header&text=PADAKANTI%20HARSHITH&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=CS%20undergrad%20who%20builds%20real%20things%20and%20solves%20problems&descSize=13&descAlignY=80&descAlign=50&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:006064,100:000000&height=160&section=header&text=PADAKANTI%20HARSHITH&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=CS%20undergrad%20who%20builds%20real%20things%20and%20solves%20problems&descSize=13&descAlignY=80&descAlign=50&descColor=aaaaaa" />
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
 
 ```java
 class Harshith {
@@ -33,7 +33,7 @@ class Harshith {
 }
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
 
 <br/>
 
@@ -43,7 +43,7 @@ Backend-focused CS student based in Hyderabad. I build real-time applications us
 
 Currently seeking **Backend Internship opportunities for Summer 2026**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
 
 <br/>
 
@@ -51,7 +51,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Harshith1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=888888&include_all_commits=true&count_private=true&ring_color=ff0000" />
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Harshith1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=888888&include_all_commits=true&count_private=true&ring_color=00ffff" />
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith1702&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&langs_count=6" />
 
@@ -59,11 +59,11 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Harshith1702&theme=github-dark-blue&hide_border=true&background=000000&stroke=8b0000&ring=ff0000&fire=ff4444&currStreakLabel=aaaaaa&sideLabels=888888&currStreakNum=ffffff&sideNums=cccccc&dates=555555)](https://github.com/Harshith1702)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Harshith1702&theme=github-dark-blue&hide_border=true&background=000000&stroke=00bcd4&ring=00ffff&fire=00e5ff&currStreakLabel=aaaaaa&sideLabels=888888&currStreakNum=ffffff&sideNums=cccccc&dates=555555)](https://github.com/Harshith1702)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
 
 <br/>
 
@@ -71,11 +71,11 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshith1702&bg_color=000000&color=888888&line=8b0000&point=ff0000&area=true&area_color=1a0000&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Harshith1702)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshith1702&bg_color=000000&color=888888&line=00bcd4&point=00ffff&area=true&area_color=002f33&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Harshith1702)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
 
 <br/>
 
@@ -91,7 +91,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
 
 <br/>
 
@@ -111,7 +111,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
 
 <br/>
 
@@ -123,7 +123,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 **LeetCode Discord Reporter** · [`Harshith1702/leetcode-discord-reporter`](https://github.com/Harshith1702/leetcode-discord-reporter)
 > Posts daily solved problems to Discord at 10:15 PM IST — GitHub Actions + cron-job.org + session auth
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
 
 <br/>
 
@@ -141,7 +141,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
 
 <br/>
 
@@ -164,7 +164,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
 
 <br/>
 
@@ -175,7 +175,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 - 🎓 Introduction to Artificial Intelligence — Google
 - 🔧 IoT Bootcamp — Sansa Innovations Pvt. Ltd.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
 
 <br/>
 
@@ -200,8 +200,8 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=ff0000&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3d0000,100:8b0000&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:006064,100:00bcd4&height=100&section=footer" />
