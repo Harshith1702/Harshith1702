@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
 
 ```java
 class Harshith {
@@ -33,7 +33,7 @@ class Harshith {
 }
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <br/>
 
@@ -43,7 +43,7 @@ Backend-focused CS student based in Hyderabad. I build real-time applications us
 
 Currently seeking **Backend Internship opportunities for Summer 2026**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <br/>
 
@@ -63,7 +63,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <br/>
 
@@ -75,7 +75,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <br/>
 
@@ -91,7 +91,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <br/>
 
@@ -111,7 +111,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <br/>
 
@@ -123,7 +123,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 **LeetCode Discord Reporter** · [`Harshith1702/leetcode-discord-reporter`](https://github.com/Harshith1702/leetcode-discord-reporter)
 > Posts daily solved problems to Discord at 10:15 PM IST — GitHub Actions + cron-job.org + session auth
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <br/>
 
@@ -141,7 +141,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <br/>
 
@@ -164,7 +164,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <br/>
 
@@ -175,7 +175,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 - 🎓 Introduction to Artificial Intelligence — Google
 - 🔧 IoT Bootcamp — Sansa Innovations Pvt. Ltd.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&section=header" />
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <br/>
 
