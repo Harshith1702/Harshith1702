@@ -179,10 +179,10 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 *Profile views don't matter — projects do.*
 
 <br/>
-
+![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=aaaaaa&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=footer" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=aaaaaa&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 </div>
