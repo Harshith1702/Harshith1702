@@ -1,6 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=555555&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Builder.+Not+a+talker.)](https://git.io/typing-svg)
+<h1>PADAKANTI HARSHITH</h1>
+
+</div>
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=ffffff&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Builder.+Not+a+talker.)](https://git.io/typing-svg)
 
 </div>
 
