@@ -1,12 +1,15 @@
 <div align="center">
 
-<h1 style="background:#111111; padding:20px;">PADAKANTI HARSHITH</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=160&section=header&text=PADAKANTI%20HARSHITH&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=CS%20undergrad%20who%20builds%20real%20things%20and%20solves%20problems&descSize=13&descAlignY=80&descAlign=50&descColor=666666" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Builder.+Not+a+talker.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1200&color=777777&center=true&vCenter=true&width=650&lines=Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Backend+%7C+Real-Time+Systems+%7C+DSA;Builder.+Not+a+talker.)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
+
 ---
 
 ```java
