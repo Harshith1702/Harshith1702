@@ -14,29 +14,10 @@ jobs:
     name: Generate 3D Contribution Graph
     steps:
       - uses: actions/checkout@v4
-      - name: Create settings file
-        run: |
-          cat > /tmp/3d-settings.json << 'JSONEOF'
-          {
-            "type": "normal",
-            "backgroundColor": "#000000",
-            "foregroundColor": "#ffffff",
-            "strongColor": "#ffffff",
-            "middleColor": "#555555",
-            "weakColor": "#1a1a1a",
-            "skyColor": "#000000",
-            "celebrateColor": "#888888",
-            "contributions": "total",
-            "settings": {
-              "timezone": "Asia/Kolkata"
-            }
-          }
-          JSONEOF
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: /tmp/3d-settings.json
       - run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
