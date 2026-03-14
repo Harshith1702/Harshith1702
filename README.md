@@ -1,14 +1,12 @@
 <div align="center">
 
-<h1>⬛ PADAKANTI HARSHITH ⬛</h1>
-<h4>CS Undergrad · Hyderabad · Expected 2028</h4>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=80&text=PADAKANTI%20HARSHITH&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=CS%20Undergrad%20%7C%20Hyderabad%20%7C%20Expected%202028&descSize=13&descAlignY=80&descColor=aaaaaa" width="100%"/>
 
-<br/>
+<br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00ffff&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Builder.+Not+a+talker.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Builder.+Not+a+talker.)](https://git.io/typing-svg)
 
 </div>
-<br/>
 
 ---
 
