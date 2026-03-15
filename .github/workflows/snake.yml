@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -10,10 +11,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Harshith1702
+          color_snake: cyan
           outputs: |
-            outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=cyan&color_dots=1a1a1a,1a4d1a,266626,39ac39,57d657
-            dist/github-contribution-grid-snake-dark.svg?color_snake=cyan&color_dots=1a1a1a,1a4d1a,266626,39ac39,57d657
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
