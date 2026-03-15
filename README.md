@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=160&section=header&text=PADAKANTI%20HARSHITH&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=CS%20undergrad%20who%20builds%20real%20things%20and%20solves%20problems&descSize=13&descAlignY=80&descAlign=50&descColor=666666" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=160&section=header&text=PADAKANTI%20HARSHITH&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=Backend%20Developer%20%7C%20Real-Time%20Systems%20%7C%20Open%20Source&descSize=13&descAlignY=80&descAlign=50&descColor=777777" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1200&color=777777&center=true&vCenter=true&width=650&lines=Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Backend+%7C+Real-Time+Systems+%7C+DSA;Builder.+Not+a+talker.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Builder.+Not+a+talker.)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshith1702)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-p-17022007v/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Harshith-2007/)
+[![Email](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaharshith31@gmail.com)
 
 </div>
-
-<br/>
 
 ---
 
@@ -37,49 +42,40 @@ class Harshith {
 
 ## ◾ About
 
-Backend-focused CS student based in Hyderabad. I build real-time applications using Node.js and Socket.IO, and practice DSA daily in Java. Clean backend logic, real projects, no fluff.
+Backend-focused CS student based in **Hyderabad, India**. I build real-time applications using Node.js and Socket.IO, and practice DSA daily in Java. Clean backend logic, real projects, no fluff.
 
 Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 ---
 
-## ◾ GitHub Stats
+## ◾ Open Source
 
-<div align="center">
+### Rocket.Chat — targeting GSoC 2026
 
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Harshith1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=888888&include_all_commits=true&count_private=true&ring_color=00ffff" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith1702&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&langs_count=6" />
+Contributing to the large-scale open source chat platform.
 
-</div>
+- Raised first PR
+- Working on issue [**#39376**](https://github.com/RocketChat/Rocket.Chat/issues/39376) — fixing timestamp parsing inside bold/italic markdown
 
-<div align="center">
+### LeetCode Discord Reporter · [`repo ↗`](https://github.com/Harshith1702/leetcode-discord-reporter)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Harshith1702&theme=github-dark-blue&hide_border=true&background=000000&stroke=00bcd4&ring=00ffff&fire=00e5ff&currStreakLabel=aaaaaa&sideLabels=888888&currStreakNum=ffffff&sideNums=cccccc&dates=555555)](https://github.com/Harshith1702)
-
-</div>
-
----
-
-## ◾ Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshith1702&bg_color=000000&color=888888&line=00bcd4&point=00ffff&area=true&area_color=002f33&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Harshith1702)
-
-</div>
+- Fetches accepted submissions from LeetCode daily
+- Posts to Discord at **10:15 PM IST** automatically
+- GitHub Actions + cron-job.org + session auth
 
 ---
 
-## ◾ Snake
+## ◾ Projects
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+| Project | Description | Stack | Link |
+|:---|:---|:---|:---:|
+| **Open Chat App** | Real-time rooms, password-protected, typing indicators, 100-user cap | `Node.js` `Express` `Socket.IO` | [Live ↗](https://open-chat-application-ubti.onrender.com) · [Code](https://github.com/Harshith1702/Open_Chat_Application) |
+| **Eclipse Attendance** | QR-based, teacher/student dashboards, CSV export, fully browser-side | `HTML` `CSS` `JS` | [Code](https://github.com/Harshith1702/eclipse-attendance-app) |
+| **Social Media Follower System** | Graphs from scratch: follow/unfollow, mutual suggestions | `C` `DSA` | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
+| **Web Scraper** | Data extraction in Java + Python | `Java` `Python` | [Code](https://github.com/Harshith1702/Web_Scraper) |
+| **Smart Dustbin** | IR sensor + servo motor automation | `Arduino` `C++` `IoT` | — |
 
 </div>
 
@@ -103,27 +99,33 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 ---
 
-## ◾ Open Source
-
-**Rocket.Chat** — targeting GSoC 2026
-> Raised first PR · working on [#39376](https://github.com/RocketChat/Rocket.Chat/issues/39376) — timestamps not parsed inside bold/italic markdown
-
-**LeetCode Discord Reporter** · [`Harshith1702/leetcode-discord-reporter`](https://github.com/Harshith1702/leetcode-discord-reporter)
-> Posts daily solved problems to Discord at 10:15 PM IST — GitHub Actions + cron-job.org + session auth
-
----
-
-## ◾ Projects
+## ◾ GitHub Stats
 
 <div align="center">
 
-| Project | Stack | Link |
-|:---|:---|:---:|
-| **Open Chat App** — real-time rooms, password-protected, typing indicators, 100-user cap | `Node.js` `Express` `Socket.IO` | [**Live ↗**](https://open-chat-application-ubti.onrender.com) · [**Code**](https://github.com/Harshith1702/Open_Chat_Application) |
-| **Eclipse Attendance** — QR-based, teacher/student dashboards, CSV export, fully browser-side | `HTML` `CSS` `JS` | [**Code**](https://github.com/Harshith1702/eclipse-attendance-app) |
-| **Social Media Follower System** — graphs from scratch: follow/unfollow, mutual suggestions | `C` `DSA` | [**Code**](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
-| **Web Scraper** — data extraction in Java + Python | `Java` `Python` | [**Code**](https://github.com/Harshith1702/Web_Scraper) |
-| **Smart Dustbin** — IR sensor + servo motor automation | `Arduino` `C++` `IoT` | — |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshith1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=888888&include_all_commits=true&count_private=true&ring_color=00ffff" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith1702&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harshith1702&theme=github-dark&hide_border=true&background=000000&ring=00ffff&fire=00e5ff&currStreakLabel=aaaaaa&sideLabels=888888&currStreakNum=ffffff&sideNums=cccccc&dates=555555)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## ◾ Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -153,24 +155,9 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 ## ◾ Achievements
 
 - 🏆 Technovanza 5.0 Internal Hackathon — selected for SIH 2025
-- 🎓 Discover the Art of Prompting — Google
-- 🎓 Introduction to Artificial Intelligence — Google
 - 🔧 IoT Bootcamp — Sansa Innovations Pvt. Ltd.
 
 ---
-
-## ◾ Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaharshith31@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-p-17022007v/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Harshith-2007/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshith1702)
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -179,10 +166,9 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 *Profile views don't matter — projects do.*
 
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=aaaaaa&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=footer" />
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=footer" />
