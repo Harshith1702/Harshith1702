@@ -167,7 +167,7 @@ Contributing to the large-scale open source chat platform.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=181717&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
