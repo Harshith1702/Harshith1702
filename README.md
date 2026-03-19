@@ -25,7 +25,7 @@ class Harshith {
     String   status     = "2nd year undergrad | Expected 2028";
 
     String[] building   = {
-        "Rocket.Chat open source — raised 1 PR, targeting GSoC 2026",
+        "Rocket.Chat open source — raised 3 PRs, targeting GSoC 2026",
         "LeetCode Discord Reporter — auto-posts daily solves via GitHub Actions"
     };
 
@@ -52,16 +52,11 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 ### Rocket.Chat — targeting GSoC 2026
 
-Contributing to the large-scale open source chat platform.
+Contributing to the `message-parser` package of the large-scale open source chat platform.
 
-- Raised first PR
-- Working on issue [**#39376**](https://github.com/RocketChat/Rocket.Chat/issues/39376) — fixing timestamp parsing inside bold/italic markdown
-
-### LeetCode Discord Reporter · [`repo ↗`](https://github.com/Harshith1702/leetcode-discord-reporter)
-
-- Fetches accepted submissions from LeetCode daily
-- Posts to Discord at **10:15 PM IST** automatically
-- GitHub Actions + cron-job.org + session auth
+- Fixed timestamp parsing inside bold/italic formatted text — [**#39455**](https://github.com/RocketChat/Rocket.Chat/pull/39455)
+- Added test coverage for `isNodeOfType` guard — [**#39737**](https://github.com/RocketChat/Rocket.Chat/pull/39737)
+- Added tests for `joinEmoji` behavior through `reducePlainTexts` — [**#39733**](https://github.com/RocketChat/Rocket.Chat/pull/39733)
 
 ---
 
@@ -72,6 +67,7 @@ Contributing to the large-scale open source chat platform.
 | Project | Description | Stack | Link |
 |:---|:---|:---|:---:|
 | **Open Chat App** | Real-time rooms, password-protected, typing indicators, 100-user cap | `Node.js` `Express` `Socket.IO` | [Live ↗](https://open-chat-application-ubti.onrender.com) · [Code](https://github.com/Harshith1702/Open_Chat_Application) |
+| **LeetCode Discord Reporter** | Fetches accepted submissions daily, posts to Discord at 10:15 PM IST automatically | `GitHub Actions` `cron-job.org` | [Code](https://github.com/Harshith1702/leetcode-discord-reporter) |
 | **Eclipse Attendance** | QR-based, teacher/student dashboards, CSV export, fully browser-side | `HTML` `CSS` `JS` | [Code](https://github.com/Harshith1702/eclipse-attendance-app) |
 | **Social Media Follower System** | Graphs from scratch: follow/unfollow, mutual suggestions | `C` `DSA` | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
 | **Web Scraper** | Data extraction in Java + Python | `Java` `Python` | [Code](https://github.com/Harshith1702/Web_Scraper) |
