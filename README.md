@@ -76,12 +76,12 @@ Contributing to the `message-parser` package of the large-scale open source chat
 
 <div align="center">
 
-| Project | Stack | Link |
-|:---|:---|:---:|
-| **Social Media Follower System** | `C` `DSA` | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
-| **CP Grind Tracker** | `Python` `MySQL` | [Code](https://github.com/Harshith1702/cp-grind-tracker) |
-| **Smart Dustbin** | `Arduino` `C++` `IoT` | — |
-| **Web Scraper** | `Java` `Python` | [Code](https://github.com/Harshith1702/Web_Scraper) |
+| Project | Description | Stack | Link |
+|:---|:---|:---|:---:|
+| **Social Media Follower System** | Graph-based: follow/unfollow, mutual suggestions | `C` `DSA` | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
+| **CP Grind Tracker** | Tracks LeetCode submissions, weak topics and streaks via MySQL | `Python` `MySQL` | [Code](https://github.com/Harshith1702/cp-grind-tracker) |
+| **Smart Dustbin** | IR sensor + servo motor automation | `Arduino` `C++` `IoT` | — |
+| **Web Scraper** | Data extraction in Java + Python using Jsoup + BeautifulSoup | `Java` `Python` | [Code](https://github.com/Harshith1702/Web_Scraper) |
 
 </div>
 
