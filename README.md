@@ -123,6 +123,16 @@ Contributing to the `message-parser` package of the large-scale open source chat
 
 ---
 
+## ◾ Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshith1702&bg_color=000000&color=888888&line=00bcd4&point=00ffff&area=true&area_color=002f33&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Harshith1702)
+
+</div>
+
+---
+
 ## ◾ Snake
 
 <div align="center">
