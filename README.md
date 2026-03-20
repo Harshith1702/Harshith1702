@@ -60,7 +60,7 @@ Contributing to the `message-parser` package of the large-scale open source chat
 
 ---
 
-## ◾ Projects
+## ◾ Featured Projects
 
 <div align="center">
 
@@ -69,10 +69,19 @@ Contributing to the `message-parser` package of the large-scale open source chat
 | **Open Chat App** | Real-time rooms, password-protected, typing indicators, 100-user cap | `Node.js` `Express` `Socket.IO` | [Live ↗](https://open-chat-application-ubti.onrender.com) · [Code](https://github.com/Harshith1702/Open_Chat_Application) |
 | **LeetCode Discord Reporter** | Fetches accepted submissions daily, posts to Discord at 10:15 PM IST automatically | `GitHub Actions` `cron-job.org` | [Code](https://github.com/Harshith1702/leetcode-discord-reporter) |
 | **Eclipse Attendance** | QR-based, teacher/student dashboards, CSV export, fully browser-side | `HTML` `CSS` `JS` | [Code](https://github.com/Harshith1702/eclipse-attendance-app) |
-| **Social Media Follower System** | Graphs from scratch: follow/unfollow, mutual suggestions | `C` `DSA` | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
-| **Web Scraper** | Data extraction in Java + Python | `Java` `Python` | [Code](https://github.com/Harshith1702/Web_Scraper) |
-| **CP Grind Tracker** | MySQL database tracking LeetCode submissions, weak topics and streaks — synced via API | `Python` `MySQL` | [Code](https://github.com/Harshith1702/cp-grind-tracker) |
-| **Smart Dustbin** | IR sensor + servo motor automation | `Arduino` `C++` `IoT` | — |
+
+</div>
+
+## ◾ Other Projects
+
+<div align="center">
+
+| Project | Stack | Link |
+|:---|:---|:---:|
+| **Social Media Follower System** | `C` `DSA` | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
+| **CP Grind Tracker** | `Python` `MySQL` | [Code](https://github.com/Harshith1702/cp-grind-tracker) |
+| **Smart Dustbin** | `Arduino` `C++` `IoT` | — |
+| **Web Scraper** | `Java` `Python` | [Code](https://github.com/Harshith1702/Web_Scraper) |
 
 </div>
 
