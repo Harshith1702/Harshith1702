@@ -71,6 +71,7 @@ Contributing to the `message-parser` package of the large-scale open source chat
 | **Eclipse Attendance** | QR-based, teacher/student dashboards, CSV export, fully browser-side | `HTML` `CSS` `JS` | [Code](https://github.com/Harshith1702/eclipse-attendance-app) |
 | **Social Media Follower System** | Graphs from scratch: follow/unfollow, mutual suggestions | `C` `DSA` | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
 | **Web Scraper** | Data extraction in Java + Python | `Java` `Python` | [Code](https://github.com/Harshith1702/Web_Scraper) |
+| **CP Grind Tracker** | MySQL database tracking LeetCode submissions, weak topics and streaks — synced via API | `Python` `MySQL` | [Code](https://github.com/Harshith1702/cp-grind-tracker) |
 | **Smart Dustbin** | IR sensor + servo motor automation | `Arduino` `C++` `IoT` | — |
 
 </div>
@@ -143,6 +144,7 @@ Contributing to the `message-parser` package of the large-scale open source chat
 ![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino&logoColor=00979D)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
