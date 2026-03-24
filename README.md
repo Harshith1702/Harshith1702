@@ -43,6 +43,7 @@ class Harshith {
 ## ◾ About
 
 Backend-focused CS student based in **Hyderabad, India**. I build real-time applications using Node.js and Socket.IO, and practice DSA daily in Java. Clean backend logic, real projects, no fluff.
+I also build data-driven systems — recently developed a full-stack LeetCode tracker with an automated sync pipeline and analytics dashboard.
 
 Currently seeking **Backend Internship opportunities for Summer 2026**.
 
@@ -50,13 +51,15 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 ## ◾ Open Source
 
+Contributing to large-scale open source systems and improving production-level codebases.
+
 ### Rocket.Chat — targeting GSoC 2026
 
-Contributing to the `message-parser` package of the large-scale open source chat platform.
+Contributing to the `message-parser` package of the Rocket.Chat codebase (PRs under review).
 
-- Fixed timestamp parsing inside bold/italic formatted text — [**#39455**](https://github.com/RocketChat/Rocket.Chat/pull/39455)
+- Proposed fix for timestamp parsing inside formatted text — [**#39455**](https://github.com/RocketChat/Rocket.Chat/pull/39455)
 - Added test coverage for `isNodeOfType` guard — [**#39737**](https://github.com/RocketChat/Rocket.Chat/pull/39737)
-- Added tests for `joinEmoji` behavior through `reducePlainTexts` — [**#39733**](https://github.com/RocketChat/Rocket.Chat/pull/39733)
+- Wrote tests for emoji parsing behavior in `reducePlainTexts` — [**#39733**](https://github.com/RocketChat/Rocket.Chat/pull/39733)
 
 ---
 
@@ -67,8 +70,8 @@ Contributing to the `message-parser` package of the large-scale open source chat
 | Project | Description | Stack | Link |
 |:---|:---|:---|:---:|
 | **Open Chat App** | Real-time rooms, password-protected, typing indicators, 100-user cap | `Node.js` `Express` `Socket.IO` | [Live ↗](https://open-chat-application-ubti.onrender.com) · [Code](https://github.com/Harshith1702/Open_Chat_Application) |
+| **LeetCode Grind Tracker** | Full-stack tracker with Python sync pipeline, MySQL views, PHP API, and dashboard analytics | `Python` `PHP` `MySQL` `JavaScript` | [Code](https://github.com/Harshith1702/leetcode-grind-tracker) |
 | **LeetCode Discord Reporter** | Fetches accepted submissions daily, posts to Discord at 10:15 PM IST automatically | `GitHub Actions` `cron-job.org` | [Code](https://github.com/Harshith1702/leetcode-discord-reporter) |
-| **Eclipse Attendance** | QR-based, teacher/student dashboards, CSV export, fully browser-side | `HTML` `CSS` `JS` | [Code](https://github.com/Harshith1702/eclipse-attendance-app) |
 
 </div>
 
@@ -79,7 +82,7 @@ Contributing to the `message-parser` package of the large-scale open source chat
 | Project | Description | Stack | Link |
 |:---|:---|:---|:---:|
 | **Social Media Follower System** | Graph-based: follow/unfollow, mutual suggestions | `C` `DSA` | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
-| **CP Grind Tracker** | Tracks LeetCode submissions, weak topics and streaks via MySQL | `Python` `MySQL` | [Code](https://github.com/Harshith1702/cp-grind-tracker) |
+| **Eclipse Attendance** | QR-based, teacher/student dashboards, CSV export, fully browser-side | `HTML` `CSS` `JS` | [Code](https://github.com/Harshith1702/eclipse-attendance-app) |
 | **Smart Dustbin** | IR sensor + servo motor automation | `Arduino` `C++` `IoT` | — |
 | **Web Scraper** | Data extraction in Java + Python using Jsoup + BeautifulSoup | `Java` `Python` | [Code](https://github.com/Harshith1702/Web_Scraper) |
 
