@@ -103,6 +103,7 @@ Contributing to the `message-parser` package of the Rocket.Chat codebase (PRs un
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Harshith-2007?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=4&bgcolor=000000&border_radius=4)](https://leetcode.com/u/Harshith-2007/)
+[![LeetCode Contest](https://leetcard.jacoblin.cool/Harshith-2007?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=4&bgcolor=000000)](https://leetcode.com/u/Harshith-2007/)
 
 </div>
 
