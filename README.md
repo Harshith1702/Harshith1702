@@ -43,7 +43,7 @@ class Harshith {
 ## ◾ About
 
 Backend-focused CS student based in **Hyderabad, India**. I build real-time applications using Node.js and Socket.IO, and practice DSA daily in Java. Clean backend logic, real projects, no fluff.
-I also build data-driven systems — recently developed a full-stack LeetCode tracker with an automated sync pipeline and analytics dashboard.
+I also build data-driven systems, recently developed a full-stack LeetCode tracker with an automated sync pipeline and analytics dashboard.
 
 Currently seeking **Backend Internship opportunities for Summer 2026**.
 
