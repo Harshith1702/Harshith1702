@@ -51,12 +51,9 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 ## ◾ Open Source
 
-Contributing to large-scale open source systems and improving production-level codebases.
+Selected for **GSSoC 2026** and **NSoC 2026**. Contributing to Rocket.Chat's `message-parser` package — 3 PRs merged into `develop` via [#39853](https://github.com/RocketChat/Rocket.Chat/pull/39853), targeting **GSoC 2026**.
 
-### Rocket.Chat — targeting GSoC 2026
-
-Contributing to the `message-parser` package of the Rocket.Chat codebase (PRs under review).
-
+### Rocket.Chat — GSoC 2026
 - Proposed fix for timestamp parsing inside formatted text — [**#39455**](https://github.com/RocketChat/Rocket.Chat/pull/39455)
 - Added test coverage for `isNodeOfType` guard — [**#39737**](https://github.com/RocketChat/Rocket.Chat/pull/39737)
 - Wrote tests for emoji parsing behavior in `reducePlainTexts` — [**#39733**](https://github.com/RocketChat/Rocket.Chat/pull/39733)
