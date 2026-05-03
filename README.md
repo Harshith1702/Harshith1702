@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Spotify](https://spotify-music-ruddy.vercel.app/api/orchestrator)](https://open.spotify.com/user/harshith)
+[![Spotify](https://spotify-music-ruddy.vercel.app/api/orchestrator?show_status=true)](https://open.spotify.com/user/harshith)
 
 </div>
 
