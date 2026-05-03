@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<sub>this is what I hear instead of people 🖤</sub>
+<kbd>this is what I hear instead of people 🖤</kbd>
 
 [![Spotify](https://spotify-music-ruddy.vercel.app/api/orchestrator)](https://open.spotify.com/user/harshith)
 </div>
