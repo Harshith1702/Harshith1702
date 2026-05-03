@@ -8,7 +8,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshith1702)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://harshith-padakanti.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padakanti-harshith)
 [![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Harshith-2007)
 [![Email](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaharshith31@gmail.com)
@@ -51,7 +51,7 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 ## ◾ Open Source
 
-Selected for **GSSoC 2026** and **NSoC 2026**. Contributing to Rocket.Chat's `message-parser` package — 3 PRs merged into `develop` via [#39853](https://github.com/RocketChat/Rocket.Chat/pull/39853), targeting **GSoC 2026**.
+Selected for **GSSoC 2026** and **SSoC 2026**. Contributing to Rocket.Chat's `message-parser` package — 3 PRs merged into `develop` via [#39853](https://github.com/RocketChat/Rocket.Chat/pull/39853), targeting **GSoC 2026**.
 
 ### Rocket.Chat — GSoC 2026
 - Proposed fix for timestamp parsing inside formatted text — [**#39455**](https://github.com/RocketChat/Rocket.Chat/pull/39455)
@@ -122,6 +122,8 @@ Selected for **GSSoC 2026** and **NSoC 2026**. Contributing to Rocket.Chat's `me
 
 </div>
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Harshith1702&theme=onestar&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Harshith1702)
+
 ---
 
 ## ◾ Contribution Graph
@@ -152,19 +154,14 @@ Selected for **GSSoC 2026** and **NSoC 2026**. Contributing to Rocket.Chat's `me
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=43853D)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-111111?style=for-the-badge&logo=socket.io&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino&logoColor=00979D)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**
+[![Skills](https://skillicons.dev/icons?i=java,js,python,c,php&theme=dark)](https://skillicons.dev)
+
+**Backend**
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark)](https://skillicons.dev)
+
+**Tools**
+[![Skills](https://skillicons.dev/icons?i=git,github,githubactions,arduino&theme=dark)](https://skillicons.dev)
 
 </div>
 
