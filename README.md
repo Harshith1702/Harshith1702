@@ -13,31 +13,27 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://harshith-padakanti.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Harshith-2007)
 [![Email](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaharshith31@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=111111&style=for-the-badge&label=VIEWS)
 
 </div>
 
 ---
 
-```java
-class Harshith {
-
-    String   location   = "Hyderabad, India";
-    String   degree     = "B.Tech CSE @ CMR Technical Campus (CGPA: 8.84)";
-    String   status     = "2nd year undergrad | Expected 2028";
-    String   portfolio  = "https://harshith-padakanti.vercel.app";
-
-    String[] building   = {
-        "open source: GSSoC 2026, NSoC 2026, SSoC 2026",
-        "LeetCode Discord Reporter: live, automated, zero maintenance"
-    };
-
-    String[] grinding   = {
-        "LeetCode | CodeChef | Codeforces | SmartInterviews",
-        "daily contests, consistency over everything"
-    };
-
-    String   openTo     = "Backend Internships · OSS · Interesting problems";
-}
+```bash
+┌─[harshith@dev]─[~]
+│
+├── location    : Hyderabad, India
+├── degree      : B.Tech CSE @ CMR Technical Campus (CGPA: 8.84)
+├── status      : 2nd year undergrad | Expected 2028
+├── portfolio   : https://harshith-padakanti.vercel.app
+│
+├── building    : open source — GSSoC 2026, NSoC 2026, SSoC 2026
+│                 LeetCode Discord Reporter — live, zero maintenance
+│
+├── grinding    : LeetCode | CodeChef | Codeforces | SmartInterviews
+│                 daily contests. consistency over everything.
+│
+└── open to     : Backend Internships · OSS · Interesting problems
 ```
 
 ---
@@ -200,10 +196,6 @@ Selected for **GSSoC 2026**, **NSoC 2026**, and **SSoC 2026**.
 *Actively seeking backend internships and open to collaborations.*
 
 *Profile views don't matter — projects do.*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=181717&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
