@@ -4,12 +4,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;Contributing+to+Rocket.Chat+%E2%80%94+targeting+GSoC+2026;Builder.+Not+a+talker.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;3+PRs+merged+into+Rocket.Chat+develop;Builder.+Not+a+talker.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://harshith-padakanti.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshith1702)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padakanti-harshith)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://harshith-padakanti.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Harshith-2007)
 [![Email](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaharshith31@gmail.com)
 
@@ -23,15 +24,16 @@ class Harshith {
     String   location   = "Hyderabad, India";
     String   degree     = "B.Tech CSE @ CMR Technical Campus (CGPA: 8.84)";
     String   status     = "2nd year undergrad | Expected 2028";
+    String   portfolio  = "https://harshith-padakanti.vercel.app";
 
     String[] building   = {
-        "Rocket.Chat open source — raised 3 PRs, targeting GSoC 2026",
-        "LeetCode Discord Reporter — auto-posts daily solves via GitHub Actions"
+        "open source: GSSoC 2026, NSoC 2026, SSoC 2026",
+        "LeetCode Discord Reporter: live, automated, zero maintenance"
     };
 
     String[] grinding   = {
-        "LeetCode | CodeChef | SmartInterviews",
-        "daily contests — consistency over everything"
+        "LeetCode | CodeChef | Codeforces | SmartInterviews",
+        "daily contests, consistency over everything"
     };
 
     String   openTo     = "Backend Internships · OSS · Interesting problems";
@@ -43,7 +45,6 @@ class Harshith {
 ## ◾ About
 
 Backend-focused CS student based in **Hyderabad, India**. I build real-time applications using Node.js and Socket.IO, and practice DSA daily in Java. Clean backend logic, real projects, no fluff.
-I also build data-driven systems, recently developed a full-stack LeetCode tracker with an automated sync pipeline and analytics dashboard.
 
 Currently seeking **Backend Internship opportunities for Summer 2026**.
 
@@ -51,12 +52,22 @@ Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 ## ◾ Open Source
 
-Selected for **GSSoC 2026** and **SSoC 2026**. Contributing to Rocket.Chat's `message-parser` package — 3 PRs merged into `develop` via [#39853](https://github.com/RocketChat/Rocket.Chat/pull/39853), targeting **GSoC 2026**.
+Selected for **GSSoC 2026**, **NSoC 2026**, and **SSoC 2026**.
 
-### Rocket.Chat — GSoC 2026
-- Proposed fix for timestamp parsing inside formatted text — [**#39455**](https://github.com/RocketChat/Rocket.Chat/pull/39455)
-- Added test coverage for `isNodeOfType` guard — [**#39737**](https://github.com/RocketChat/Rocket.Chat/pull/39737)
-- Wrote tests for emoji parsing behavior in `reducePlainTexts` — [**#39733**](https://github.com/RocketChat/Rocket.Chat/pull/39733)
+### Rocket.Chat — GSoC 2026 Preparation
+3 PRs merged into `develop` via batch PR [#39853](https://github.com/RocketChat/Rocket.Chat/pull/39853) with 10 contributors.
+
+- Fixed timestamp parsing inside formatted text: [**#39455**](https://github.com/RocketChat/Rocket.Chat/pull/39455)
+- Added test coverage for `isNodeOfType` guard: [**#39737**](https://github.com/RocketChat/Rocket.Chat/pull/39737)
+- Wrote tests for emoji parsing behavior in `reducePlainTexts`: [**#39733**](https://github.com/RocketChat/Rocket.Chat/pull/39733)
+
+### NSoC 2026 — 5 PRs Merged
+
+**Foodie**
+- [**#582**](https://github.com/janavipandole/Foodie/pull/582) · [**#586**](https://github.com/janavipandole/Foodie/pull/586) · [**#590**](https://github.com/janavipandole/Foodie/pull/590)
+
+**Smart Campus Utility Hub**
+- [**#44**](https://github.com/KanavCode/smart-campus-utility-hub/pull/44) · [**#56**](https://github.com/KanavCode/smart-campus-utility-hub/pull/56)
 
 ---
 
@@ -71,6 +82,8 @@ Selected for **GSSoC 2026** and **SSoC 2026**. Contributing to Rocket.Chat's `me
 | **LeetCode Discord Reporter** | Fetches accepted submissions daily, posts to Discord at 10:15 PM IST automatically | `GitHub Actions` `cron-job.org` | [Code](https://github.com/Harshith1702/leetcode-discord-reporter) |
 
 </div>
+
+---
 
 ## ◾ Other Projects
 
@@ -91,12 +104,12 @@ Selected for **GSSoC 2026** and **SSoC 2026**. Contributing to Rocket.Chat's `me
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshith-2007/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshith_2007)
-[![SmartInterviews](https://img.shields.io/badge/SmartInterviews-00897B?style=for-the-badge)](https://smartinterviews.in/profile/harshaharshith31)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Harshith-2007/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-111111?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshith_2007)
+[![Codeforces](https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshaharshith31)
+[![SmartInterviews](https://img.shields.io/badge/SmartInterviews-111111?style=for-the-badge)](https://smartinterviews.in/profile/harshaharshith31)
 
 </div>
-
 
 <div align="center">
 
@@ -122,7 +135,11 @@ Selected for **GSSoC 2026** and **SSoC 2026**. Contributing to Rocket.Chat's `me
 
 </div>
 
+<div align="center">
+
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Harshith1702&theme=onestar&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Harshith1702)
+
+</div>
 
 ---
 
@@ -141,9 +158,9 @@ Selected for **GSSoC 2026** and **SSoC 2026**. Contributing to Rocket.Chat's `me
 <div align="center">
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake.svg"/>
-<img alt="contribution snake" src="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -155,12 +172,15 @@ Selected for **GSSoC 2026** and **SSoC 2026**. Contributing to Rocket.Chat's `me
 <div align="center">
 
 **Languages**
+
 [![Skills](https://skillicons.dev/icons?i=java,js,python,c,php&theme=dark)](https://skillicons.dev)
 
 **Backend**
+
 [![Skills](https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark)](https://skillicons.dev)
 
 **Tools**
+
 [![Skills](https://skillicons.dev/icons?i=git,github,githubactions,arduino&theme=dark)](https://skillicons.dev)
 
 </div>
@@ -169,8 +189,9 @@ Selected for **GSSoC 2026** and **SSoC 2026**. Contributing to Rocket.Chat's `me
 
 ## ◾ Achievements
 
-- 🏆 Technovanza 5.0 Internal Hackathon — selected for SIH 2025
-- 🔧 IoT Bootcamp — Sansa Innovations Pvt. Ltd.
+- 🏆 Technovanza 5.0 Internal Hackathon, selected for SIH 2025
+- 🔧 IoT Bootcamp, Sansa Innovations Pvt. Ltd.
+- 📜 C Programming Certification, Spoken Tutorial by IIT Bombay
 
 ---
 
