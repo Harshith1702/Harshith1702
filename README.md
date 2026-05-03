@@ -8,12 +8,17 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshith1702)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padakanti-harshith)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://harshith-padakanti.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Harshith-2007)
 [![Email](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaharshith31@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=111111&style=for-the-badge&label=VIEWS)
+
+</div>
+
+<div align="center">
+
+[![Spotify](https://spotify-music-ruddy.vercel.app/api/orchestrator)](https://open.spotify.com/user/harshith)
 
 </div>
 
