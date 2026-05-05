@@ -29,9 +29,9 @@
 ┌─[harshith@dev]─[~]
 │
 ├── location    : Hyderabad, India
-├── degree      : B.Tech CSE @ CMR Technical Campus (CGPA: 8.84)
+├── degree      : B.Tech CSE @ CMR Technical Campus (CGPA: 8.52)
 ├── status      : 2nd year undergrad | Expected 2028
-├── portfolio   : https://harshith-padakanti.vercel.app
+├── portfolio   : [https://harshith-padakanti.vercel.app](https://harshith-padakanti.vercel.app)
 │
 ├── building    : open source — GSSoC 2026, NSoC 2026, SSoC 2026
 │                 LeetCode Discord Reporter — live, zero maintenance
