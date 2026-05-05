@@ -63,13 +63,14 @@ Selected for **GSSoC 2026**, **NSoC 2026**, and **SSoC 2026**.
 - Added test coverage for `isNodeOfType` guard: [**#39737**](https://github.com/RocketChat/Rocket.Chat/pull/39737)
 - Wrote tests for emoji parsing behavior in `reducePlainTexts`: [**#39733**](https://github.com/RocketChat/Rocket.Chat/pull/39733)
 
-### NSoC 2026 — 5 PRs Merged
+### NSoC 2026 — 7 PRs Merged
 
 **Foodie**
 - [**#582**](https://github.com/janavipandole/Foodie/pull/582) · [**#586**](https://github.com/janavipandole/Foodie/pull/586) · [**#590**](https://github.com/janavipandole/Foodie/pull/590)
 
 **Smart Campus Utility Hub**
-- [**#44**](https://github.com/KanavCode/smart-campus-utility-hub/pull/44) · [**#56**](https://github.com/KanavCode/smart-campus-utility-hub/pull/56)
+- [**#44**](https://github.com/KanavCode/smart-campus-utility-hub/pull/44) · [**#56**](https://github.com/KanavCode/smart-campus-utility-hub/pull/56) · [**#106**](https://github.com/KanavCode/smart-campus-utility-hub/pull/106) · [**#107**](https://github.com/KanavCode/smart-campus-utility-hub/pull/107)
+
 
 ---
 
@@ -186,7 +187,7 @@ Selected for **GSSoC 2026**, **NSoC 2026**, and **SSoC 2026**.
 
 ---
 
-### ◾ Core Concepts
+## ◾ Core Concepts
 
 - REST APIs, WebSockets, Real-Time Communication  
 - Data Structures & Problem Solving  
