@@ -25,13 +25,13 @@
 
 ---
 
-<pre>
+```bash
 ┌─[harshith@dev]─[~]
 │
 ├── location    : Hyderabad, India
 ├── degree      : B.Tech CSE @ CMR Technical Campus (CGPA: 8.52)
 ├── status      : 2nd year undergrad | Expected 2028
-├── portfolio   : <a href="https://harshith-padakanti.vercel.app">open</a>
+├── portfolio   : href="https://harshith-padakanti.vercel.app
 │
 ├── building    : open source — GSSoC 2026, NSoC 2026, SSoC 2026
 │                 LeetCode Discord Reporter — live, zero maintenance
@@ -40,7 +40,7 @@
 │                 daily contests. consistency over everything.
 │
 └── open to     : Backend Internships · OSS · Interesting problems
-</pre>
+```
 
 ---
 
