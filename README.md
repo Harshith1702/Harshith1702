@@ -31,7 +31,7 @@
 ├── location    : Hyderabad, India
 ├── degree      : B.Tech CSE @ CMR Technical Campus (CGPA: 8.52)
 ├── status      : 2nd year undergrad | Expected 2028
-├── portfolio   : href="https://harshith-padakanti.vercel.app
+├── portfolio   : https://harshith-padakanti.vercel.app
 │
 ├── building    : open source — GSSoC 2026, NSoC 2026, SSoC 2026
 │                 LeetCode Discord Reporter — live, zero maintenance
@@ -174,18 +174,27 @@ Selected for **GSSoC 2026**, **NSoC 2026**, and **SSoC 2026**.
 <div align="center">
 
 **Languages**
-
-[![Skills](https://skillicons.dev/icons?i=java,js,python,c,php&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,js,ts,python,c,php,html,css&theme=dark)](https://skillicons.dev)
 
 **Backend**
-
 [![Skills](https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark)](https://skillicons.dev)
 
-**Tools**
-
-[![Skills](https://skillicons.dev/icons?i=git,github,githubactions,arduino&theme=dark)](https://skillicons.dev)
+**Tools & DevOps**
+[![Skills](https://skillicons.dev/icons?i=git,github,githubactions,linux&theme=dark)](https://skillicons.dev)
 
 </div>
+
+---
+
+### ◾ Core Concepts
+
+- REST APIs, WebSockets, Real-Time Communication  
+- Data Structures & Problem Solving  
+- Object-Oriented Programming (OOP)  
+- Backend Development  
+- CI/CD & Automation  
+- Testing  
+- Open Source & Competitive Programming
 
 ---
 
