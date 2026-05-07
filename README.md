@@ -63,7 +63,7 @@ Selected for **GSSoC 2026**, **NSoC 2026**, and **SSoC 2026**.
 - Added test coverage for `isNodeOfType` guard: [**#39737**](https://github.com/RocketChat/Rocket.Chat/pull/39737)
 - Wrote tests for emoji parsing behavior in `reducePlainTexts`: [**#39733**](https://github.com/RocketChat/Rocket.Chat/pull/39733)
 
-### NSoC 2026 — 11 PRs Merged
+### NSoC 2026 — 12 PRs Merged
 
 **Foodie**
 - [**#582**](https://github.com/janavipandole/Foodie/pull/582) · [**#586**](https://github.com/janavipandole/Foodie/pull/586) · [**#590**](https://github.com/janavipandole/Foodie/pull/590) · [**#614**](https://github.com/janavipandole/Foodie/pull/614)
@@ -76,6 +76,9 @@ Selected for **GSSoC 2026**, **NSoC 2026**, and **SSoC 2026**.
 
 **Vector-social-media**
 - [**#123**](https://github.com/Shivayan09/Vector-social-media/pull/123)
+
+**SkillsSphere-AI**
+- [**#123**](https://github.com/swayam03275/SkillsSphere-AI/pull/219)
 
 ---
 
