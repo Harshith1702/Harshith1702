@@ -63,14 +63,19 @@ Selected for **GSSoC 2026**, **NSoC 2026**, and **SSoC 2026**.
 - Added test coverage for `isNodeOfType` guard: [**#39737**](https://github.com/RocketChat/Rocket.Chat/pull/39737)
 - Wrote tests for emoji parsing behavior in `reducePlainTexts`: [**#39733**](https://github.com/RocketChat/Rocket.Chat/pull/39733)
 
-### NSoC 2026 — 7 PRs Merged
+### NSoC 2026 — 11 PRs Merged
 
 **Foodie**
-- [**#582**](https://github.com/janavipandole/Foodie/pull/582) · [**#586**](https://github.com/janavipandole/Foodie/pull/586) · [**#590**](https://github.com/janavipandole/Foodie/pull/590)
+- [**#582**](https://github.com/janavipandole/Foodie/pull/582) · [**#586**](https://github.com/janavipandole/Foodie/pull/586) · [**#590**](https://github.com/janavipandole/Foodie/pull/590) · [**#614**](https://github.com/janavipandole/Foodie/pull/614)
 
 **Smart Campus Utility Hub**
 - [**#44**](https://github.com/KanavCode/smart-campus-utility-hub/pull/44) · [**#56**](https://github.com/KanavCode/smart-campus-utility-hub/pull/56) · [**#106**](https://github.com/KanavCode/smart-campus-utility-hub/pull/106) · [**#107**](https://github.com/KanavCode/smart-campus-utility-hub/pull/107)
 
+**GSoC-Org-Finder-**
+- [**#189**](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/189) · [**#193**](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/198) 
+
+**Vector-social-media**
+- [**#123**](https://github.com/Shivayan09/Vector-social-media/pull/123)
 
 ---
 
