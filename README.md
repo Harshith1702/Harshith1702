@@ -20,7 +20,7 @@
 
 <kbd>this is what I'm listening instead of people 🖤</kbd>
 
-![Last.fm](https://spotify-blush-pi.vercel.app/api?user=harshaharshith)
+![Last.fm](https://spotify-blush-pi.vercel.app/api?user=harshaharshith&count=1)
 
 </div>
 
