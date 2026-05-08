@@ -20,7 +20,8 @@
 
 <kbd>this is what I'm listening instead of people 🖤</kbd>
 
-[![Spotify](https://spotify-music-ruddy.vercel.app/api/orchestrator)](https://open.spotify.com/user/315rav3z22bg7wmkj4aleietiv5m)
+![Last.fm](https://spotify-blush-pi.vercel.app/api?user=harshaharshith)
+
 </div>
 
 ---
