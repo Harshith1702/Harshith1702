@@ -93,9 +93,9 @@ Bug fixes across frontend and backend. UI issues, rendering bugs, light mode sup
 
 | Project | Description | Stack | Link |
 |:---|:---|:---|:---:|
-| **Open Chat App** | Real-time rooms | password-protected | typing indicators | 100-user cap | `Node.js` `Express` `Socket.IO` | [Live ↗](https://open-chat-application-ubti.onrender.com) · [Code](https://github.com/Harshith1702/Open_Chat_Application) |
-| **LeetCode Grind Tracker** | Python sync pipeline | MySQL analytics | PHP API | JS dashboard | `Python` `PHP` `MySQL` `JS` | [Code](https://github.com/Harshith1702/leetcode-grind-tracker) |
-| **LeetCode Discord Reporter** | Auto-posts daily solves to Discord at 10:15 PM IST | 95+ runs | zero maintenance | `GitHub Actions` `Python` `cron-job.org` | [Code](https://github.com/Harshith1702/leetcode-discord-reporter) |
+| *Open Chat App* | Real-time rooms, password-protected, typing indicators, 100-user cap | Node.js Express Socket.IO | [Live ↗️](https://open-chat-application-ubti.onrender.com) · [Code](https://github.com/Harshith1702/Open_Chat_Application) |
+| *LeetCode Grind Tracker* | Full-stack tracker with Python sync pipeline, MySQL views, PHP API, and dashboard analytics | Python PHP MySQL JavaScript | [Code](https://github.com/Harshith1702/leetcode-grind-tracker) |
+| *LeetCode Discord Reporter* | Fetches accepted submissions daily, posts to Discord at 10:15 PM IST automatically | GitHub Actions cron-job.org | [Code](https://github.com/Harshith1702/leetcode-discord-reporter) |
 
 </div>
 
@@ -107,10 +107,10 @@ Bug fixes across frontend and backend. UI issues, rendering bugs, light mode sup
 
 | Project | Description | Stack | Link |
 |:---|:---|:---|:---:|
-| **Social Media Follower System** | Graph-based follow/unfollow | mutual suggestions | `C` `DSA` | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
-| **Eclipse Attendance** | QR-based | teacher/student dashboards | CSV export | browser-side | `HTML` `CSS` `JS` | [Code](https://github.com/Harshith1702/eclipse-attendance-app) |
-| **Smart Dustbin** | IR sensor + servo motor automation | `Arduino` `C++` `IoT` | — |
-| **Web Scraper** | Data extraction via Jsoup + BeautifulSoup | `Java` `Python` | [Code](https://github.com/Harshith1702/Web_Scraper) |
+| *Social Media Follower System* | Graph-based: follow/unfollow, mutual suggestions | C DSA | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
+| *Eclipse Attendance* | QR-based, teacher/student dashboards, CSV export, fully browser-side | HTML CSS JS | [Code](https://github.com/Harshith1702/eclipse-attendance-app) |
+| *Smart Dustbin* | IR sensor + servo motor automation | Arduino C++ IoT | — |
+| *Web Scraper* | Data extraction in Java + Python using Jsoup + BeautifulSoup | Java Python | [Code](https://github.com/Harshith1702/Web_Scraper) |
 
 </div>
 
