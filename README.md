@@ -78,23 +78,7 @@ Selected for **GSSoC 2026**, **NSoC 2026**, and **SSoC 2026**.
 
 ### NSoC 2026 — 20+ PRs Merged
 
-**Foodie** — menu rendering bugs, setTimeout flash fix, dynamic cuisine categories from JSON, syntax error fixes
-- 4 PRs merged
-
-**Smart Campus Utility Hub** — pagination for Events and Clubs listing APIs, standardized backend API response envelope, API documentation for events and clubs, theme toggle accessibility fix
-- 4 PRs merged
-
-**GSoC Org Finder** — GitHub Actions PR review workflow bug fix, URL state encoding for bookmarkable filtered views
-- 2 PRs merged
-
-**Vector Social Media** — search results visibility fix for light mode
-- 1 PR merged
-
-**SkillsSphere AI** — PDF resume parsing logic for sections/URLs/portfolio detection, ATS optimization regex fallback and placeholder detection, resume text passing to gap analyzer, global light mode support across pages and components, light mode color variants for badge and component systems
-- 5+ PRs merged
-
-**Eventra** — form draft persistence via localStorage, UI toast positioning fix
-- 2 PRs merged
+Contributed across 6 open source repositories. Fixed UI bugs, rendering issues, and light mode inconsistencies. Added backend features including pagination, standardized API response envelopes, and API documentation. Implemented frontend features like localStorage draft persistence, URL state encoding, and dynamic data rendering. Wrote PDF parsing logic, ATS optimization fallbacks, and CI/CD workflow fixes.
 
 ---
 
