@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=backend+dev.+real+projects.+no+fluff.;20%2B+PRs+in+NSoC+2026.+GSSoC+2026+ongoing.;contributed+to+Rocket.Chat+develop+branch.;350%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;3+PRs+merged+into+Rocket.Chat+develop;here+by+choice.+unlike+most.;builder.+not+a+talker.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,13 +26,11 @@
 ├── status      : 2nd year undergrad | Expected 2028
 ├── portfolio   : https://harshith-padakanti.vercel.app
 │
-├── building    : GSSoC 2026 — ongoing
-│                 NSoC 2026 — 20+ PRs merged
-│                 SSoC 2026 — contributions ongoing
+├── building    : open source — GSSoC 2026, NSoC 2026, SSoC 2026
 │                 LeetCode Discord Reporter — live, zero maintenance
 │
 ├── grinding    : LeetCode | CodeChef | Codeforces | SmartInterviews
-│                 daily. consistency over everything.
+│                 daily contests. consistency over everything.
 │
 └── open to     : Backend Internships · OSS · Interesting problems
 ```
@@ -43,10 +41,9 @@
 
 Backend-focused CS student based in **Hyderabad, India**. I build real-time applications using Node.js and Socket.IO, and practice DSA daily in Java. Clean backend logic, real projects, no fluff.
 
-Currently seeking **Backend Internship opportunities for Summer/Fall 2026**.
+Currently seeking **Backend Internship opportunities for Summer 2026**.
 
 ---
-
 ## ◾ Open Source
 
 Selected for **GSSoC 2026**, **NSoC 2026**, and **SSoC 2026**.
@@ -90,7 +87,7 @@ Contributed across 6 open source repositories. Fixed UI bugs, rendering issues, 
 |:---|:---|:---|:---:|
 | **Open Chat App** | Real-time rooms, password-protected, typing indicators, 100-user cap | `Node.js` `Express` `Socket.IO` | [Live ↗](https://open-chat-application-ubti.onrender.com) · [Code](https://github.com/Harshith1702/Open_Chat_Application) |
 | **LeetCode Grind Tracker** | Full-stack tracker with Python sync pipeline, MySQL views, PHP API, and dashboard analytics | `Python` `PHP` `MySQL` `JavaScript` | [Code](https://github.com/Harshith1702/leetcode-grind-tracker) |
-| **LeetCode Discord Reporter** | Fetches accepted submissions daily, posts to Discord at 10:15 PM IST. 95+ runs. Zero maintenance. | `GitHub Actions` `Python` `cron-job.org` | [Code](https://github.com/Harshith1702/leetcode-discord-reporter) |
+| **LeetCode Discord Reporter** | Fetches accepted submissions daily, posts to Discord at 10:15 PM IST automatically | `GitHub Actions` `cron-job.org` | [Code](https://github.com/Harshith1702/leetcode-discord-reporter) |
 
 </div>
 
@@ -197,12 +194,12 @@ Contributed across 6 open source repositories. Fixed UI bugs, rendering issues, 
 
 ## ◾ Core Concepts
 
-- REST APIs, WebSockets, Real-Time Communication
-- Data Structures & Problem Solving
-- Object-Oriented Programming (OOP)
-- Backend Development
-- CI/CD & Automation
-- Testing
+- REST APIs, WebSockets, Real-Time Communication  
+- Data Structures & Problem Solving  
+- Object-Oriented Programming (OOP)  
+- Backend Development  
+- CI/CD & Automation  
+- Testing  
 - Open Source & Competitive Programming
 
 ---
@@ -217,9 +214,9 @@ Contributed across 6 open source repositories. Fixed UI bugs, rendering issues, 
 
 <div align="center">
 
-*open to backend internships. open to interesting problems. not open to small talk.*
+*Actively seeking backend internships and open to collaborations.*
 
-*profile views don't matter. projects do.*
+*Profile views don't matter — projects do.*
 
 </div>
 
