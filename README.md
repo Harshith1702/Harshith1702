@@ -21,7 +21,7 @@
 ```bash
 ┌─[harshith@dev]─[~]
 │
-├── location    : Hyderabad, India
+├── location    : Hell i guess
 ├── degree      : B.Tech CSE @ CMR Technical Campus (CGPA: 8.52)
 ├── status      : 2nd year undergrad | Expected 2028
 ├── portfolio   : https://harshith-padakanti.vercel.app
