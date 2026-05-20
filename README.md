@@ -4,7 +4,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Problem+Solver+%7C+Builder;Competitive+Programmer+%7C+LeetCode+%7C+CodeChef;3+PRs+merged+into+Rocket.Chat+develop;here+by+choice.+unlike+most.;builder.+not+a+talker.)](https://git.io/typing-svg)
+<!-- <img src="YOUR_PHOTO.png" width="120" style="border-radius:50%" alt="Harshith Padakanti" /> -->
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=i+build+things.+they+work.+that%27s+it.;20%2B+PRs+merged+across+GSSoC+%7C+NSoC+2026.;contributed+to+Rocket.Chat+develop+branch.;350%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,61 +25,65 @@
 ```bash
 ┌─[harshith@dev]─[~]
 │
-├── location    : Hell i guess
+├── location    : Hyderabad, India
 ├── degree      : B.Tech CSE @ CMR Technical Campus (CGPA: 8.52)
 ├── status      : 2nd year undergrad | Expected 2028
 ├── portfolio   : https://harshith-padakanti.vercel.app
 │
-├── building    : open source — GSSoC 2026, NSoC 2026, SSoC 2026
-│                 LeetCode Discord Reporter — live, zero maintenance
+├── building    : GSSoC 2026 | NSoC 2026 (20+ PRs) | SSoC 2026
+│                 LeetCode Discord Reporter — live | zero maintenance
 │
 ├── grinding    : LeetCode | CodeChef | Codeforces | SmartInterviews
-│                 daily contests. consistency over everything.
+│                 daily. consistency over everything.
 │
-└── open to     : Backend Internships · OSS · Interesting problems
+└── open to     : Backend Internships | OSS | Interesting problems
 ```
 
 ---
 
 ## ◾ About
 
-Backend-focused CS student based in **Hyderabad, India**. I build real-time applications using Node.js and Socket.IO, and practice DSA daily in Java. Clean backend logic, real projects, no fluff.
+Backend dev. Hyderabad. 2nd year. I write code that works, ships, and doesn't need me to explain it.
 
-Currently seeking **Backend Internship opportunities for Summer 2026**.
+Node.js | Socket.IO | Java | real-time systems | DSA daily.
+
+Looking for backend internships. Summer/Fall 2026.
 
 ---
+
 ## ◾ Open Source
 
-Selected for **GSSoC 2026**, **NSoC 2026**, and **SSoC 2026**.
+### Rocket.Chat | GSoC 2026 Preparation
 
-### Rocket.Chat — GSoC 2026 Preparation
 3 PRs contributed to `develop` via batch PR [#39853](https://github.com/RocketChat/Rocket.Chat/pull/39853) with 10 contributors. Reviewed and consolidated by Gazzo, a Rocket.Chat engineer.
 
-- Fixed timestamp parsing inside formatted text: [**#39455**](https://github.com/RocketChat/Rocket.Chat/pull/39455)
-- Added test coverage for `isNodeOfType` guard: [**#39737**](https://github.com/RocketChat/Rocket.Chat/pull/39737)
-- Wrote tests for emoji parsing behavior in `reducePlainTexts`: [**#39733**](https://github.com/RocketChat/Rocket.Chat/pull/39733)
+- [**#39455**](https://github.com/RocketChat/Rocket.Chat/pull/39455) — fixed timestamp parsing inside formatted text
+- [**#39737**](https://github.com/RocketChat/Rocket.Chat/pull/39737) — test coverage for `isNodeOfType` guard
+- [**#39733**](https://github.com/RocketChat/Rocket.Chat/pull/39733) — emoji parsing behavior tests in `reducePlainTexts`
 
 ---
 
-### GSSoC 2026 — ongoing
+### GSSoC 2026 | ongoing
 
-**GSoC Org Finder** — verifying and fixing mentor contact info for GSoC organizations across multiple orgs (preCICE, PEcAn, Pharo Consortium, OWASP, Oppia, OSGeo, PostgreSQL)
-- [**#544**](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/544) · [**#549**](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/549) · [**#649**](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/649) + more in review
+Bugs fixed, features shipped, PRs in review. Different repos, different problems, same process.
 
-**Reframe** — memory leak fix on export failure, CDN performance hints for FFmpeg
-- [**#310**](https://github.com/magic-peach/reframe/pull/310) · [**#311**](https://github.com/magic-peach/reframe/pull/311)
+**GSoC Org Finder** — verified and corrected mentor contact info for GSoC orgs (preCICE, PEcAn, Pharo, OWASP, Oppia, OSGeo, PostgreSQL and more in review)
+[**#544**](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/544) | [**#549**](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/549) | [**#649**](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/649)
 
-**Cara** — UI bug fix: banner button text visibility
-- [**#255**](https://github.com/janavipandole/Cara/pull/255)
+**Reframe** — memory leak fix on export failure | CDN performance hints for FFmpeg
+[**#310**](https://github.com/magic-peach/reframe/pull/310) | [**#311**](https://github.com/magic-peach/reframe/pull/311)
 
-**Eventra** — localStorage draft persistence for event forms, UI bug fix for toast positioning
-- [**#1256**](https://github.com/SandeepVashishtha/Eventra/pull/1256) · [**#1194**](https://github.com/SandeepVashishtha/Eventra/pull/1194)
+**Cara** — banner button text visibility fix
+[**#255**](https://github.com/janavipandole/Cara/pull/255)
+
+**Eventra** — localStorage draft persistence for event forms | toast positioning fix
+[**#1256**](https://github.com/SandeepVashishtha/Eventra/pull/1256) | [**#1194**](https://github.com/SandeepVashishtha/Eventra/pull/1194)
 
 ---
 
-### NSoC 2026 — 20+ PRs Merged
+### NSoC 2026 | 20+ PRs Merged
 
-Contributed across 6 open source repositories. Fixed UI bugs, rendering issues, and light mode inconsistencies. Added backend features including pagination, standardized API response envelopes, and API documentation. Implemented frontend features like localStorage draft persistence, URL state encoding, and dynamic data rendering. Wrote PDF parsing logic, ATS optimization fallbacks, and CI/CD workflow fixes.
+Bug fixes across frontend and backend. UI issues, rendering bugs, light mode support, menu behavior, search visibility. API work — pagination, response envelope standardization, documentation. Feature additions — URL state encoding for bookmarkable views, localStorage form draft persistence. Backend logic fixes — workflow skip conditions, ATS optimization, resume parsing, AI gap analyzer inputs. Covered multiple codebases in JavaScript, TypeScript, and Python.
 
 ---
 
@@ -85,9 +93,9 @@ Contributed across 6 open source repositories. Fixed UI bugs, rendering issues, 
 
 | Project | Description | Stack | Link |
 |:---|:---|:---|:---:|
-| **Open Chat App** | Real-time rooms, password-protected, typing indicators, 100-user cap | `Node.js` `Express` `Socket.IO` | [Live ↗](https://open-chat-application-ubti.onrender.com) · [Code](https://github.com/Harshith1702/Open_Chat_Application) |
-| **LeetCode Grind Tracker** | Full-stack tracker with Python sync pipeline, MySQL views, PHP API, and dashboard analytics | `Python` `PHP` `MySQL` `JavaScript` | [Code](https://github.com/Harshith1702/leetcode-grind-tracker) |
-| **LeetCode Discord Reporter** | Fetches accepted submissions daily, posts to Discord at 10:15 PM IST automatically | `GitHub Actions` `cron-job.org` | [Code](https://github.com/Harshith1702/leetcode-discord-reporter) |
+| **Open Chat App** | Real-time rooms | password-protected | typing indicators | 100-user cap | `Node.js` `Express` `Socket.IO` | [Live ↗](https://open-chat-application-ubti.onrender.com) · [Code](https://github.com/Harshith1702/Open_Chat_Application) |
+| **LeetCode Grind Tracker** | Python sync pipeline | MySQL analytics | PHP API | JS dashboard | `Python` `PHP` `MySQL` `JS` | [Code](https://github.com/Harshith1702/leetcode-grind-tracker) |
+| **LeetCode Discord Reporter** | Auto-posts daily solves to Discord at 10:15 PM IST | 95+ runs | zero maintenance | `GitHub Actions` `Python` `cron-job.org` | [Code](https://github.com/Harshith1702/leetcode-discord-reporter) |
 
 </div>
 
@@ -99,10 +107,10 @@ Contributed across 6 open source repositories. Fixed UI bugs, rendering issues, 
 
 | Project | Description | Stack | Link |
 |:---|:---|:---|:---:|
-| **Social Media Follower System** | Graph-based: follow/unfollow, mutual suggestions | `C` `DSA` | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
-| **Eclipse Attendance** | QR-based, teacher/student dashboards, CSV export, fully browser-side | `HTML` `CSS` `JS` | [Code](https://github.com/Harshith1702/eclipse-attendance-app) |
+| **Social Media Follower System** | Graph-based follow/unfollow | mutual suggestions | `C` `DSA` | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
+| **Eclipse Attendance** | QR-based | teacher/student dashboards | CSV export | browser-side | `HTML` `CSS` `JS` | [Code](https://github.com/Harshith1702/eclipse-attendance-app) |
 | **Smart Dustbin** | IR sensor + servo motor automation | `Arduino` `C++` `IoT` | — |
-| **Web Scraper** | Data extraction in Java + Python using Jsoup + BeautifulSoup | `Java` `Python` | [Code](https://github.com/Harshith1702/Web_Scraper) |
+| **Web Scraper** | Data extraction via Jsoup + BeautifulSoup | `Java` `Python` | [Code](https://github.com/Harshith1702/Web_Scraper) |
 
 </div>
 
@@ -194,29 +202,27 @@ Contributed across 6 open source repositories. Fixed UI bugs, rendering issues, 
 
 ## ◾ Core Concepts
 
-- REST APIs, WebSockets, Real-Time Communication  
-- Data Structures & Problem Solving  
-- Object-Oriented Programming (OOP)  
-- Backend Development  
-- CI/CD & Automation  
-- Testing  
-- Open Source & Competitive Programming
+- REST APIs | WebSockets | Real-Time Communication
+- Data Structures | Problem Solving
+- OOP | Backend Development
+- CI/CD | Automation | Testing
+- Open Source | Competitive Programming
 
 ---
 
 ## ◾ Achievements
 
-- 🏆 Technovanza 5.0 Internal Hackathon, selected for SIH 2025
-- 🔧 IoT Bootcamp, Sansa Innovations Pvt. Ltd.
-- 📜 C Programming Certification, Spoken Tutorial by IIT Bombay
+- 🏆 Selected for SIH 2025 | Technovanza 5.0 Internal Hackathon
+- 🔧 IoT Bootcamp | Sansa Innovations Pvt. Ltd.
+- 📜 C Programming Certification | Spoken Tutorial by IIT Bombay
 
 ---
 
 <div align="center">
 
-*Actively seeking backend internships and open to collaborations.*
+*open to backend internships. open to interesting problems. not open to small talk.*
 
-*Profile views don't matter — projects do.*
+*profile views don't matter. projects do.*
 
 </div>
 
