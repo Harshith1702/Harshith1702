@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=i+build+things.+they+work.+that%27s+it.;20%2B+PRs+merged+across+GSSoC+%7C+NSoC+2026.;contributed+to+Rocket.Chat+develop+branch.;350%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=i+build+things.+they+work.+that%27s+it.;25%2B+PRs+merged+across+GSSoC+%7C+NSoC+2026.;contributed+to+Rocket.Chat+develop+branch.;350%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -84,14 +84,10 @@ Bugs fixed, features shipped, PRs in review. Different repos, different problems
 ### NSoC 2026 | 20+ PRs Merged
 
 Bug fixes across frontend and backend. <br>
-UI issues, rendering bugs, light mode support, menu behavior, search visibility. 
-
-API work — pagination, response envelope standardization, documentation. 
-
-Feature additions — URL state encoding for bookmarkable views, localStorage form draft persistence. 
-
-Backend logic fixes — workflow skip conditions, ATS optimization, resume parsing, AI gap analyzer inputs. 
-
+UI issues, rendering bugs, light mode support, menu behavior, search visibility. <br>
+API work — pagination, response envelope standardization, documentation. <br>
+Feature additions — URL state encoding for bookmarkable views, localStorage form draft persistence. <br>
+Backend logic fixes — workflow skip conditions, ATS optimization, resume parsing, AI gap analyzer inputs. <br>
 Covered multiple codebases in JavaScript, TypeScript, and Python.
 
 ---
