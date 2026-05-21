@@ -83,8 +83,7 @@ Bugs fixed, features shipped, PRs in review. Different repos, different problems
 
 ### NSoC 2026 | 20+ PRs Merged
 
-Bug fixes across frontend and backend. 
-
+Bug fixes across frontend and backend. <br>
 UI issues, rendering bugs, light mode support, menu behavior, search visibility. 
 
 API work — pagination, response envelope standardization, documentation. 
