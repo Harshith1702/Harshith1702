@@ -84,10 +84,15 @@ Bugs fixed, features shipped, PRs in review. Different repos, different problems
 ### NSoC 2026 | 20+ PRs Merged
 
 Bug fixes across frontend and backend. 
+
 UI issues, rendering bugs, light mode support, menu behavior, search visibility. 
+
 API work — pagination, response envelope standardization, documentation. 
+
 Feature additions — URL state encoding for bookmarkable views, localStorage form draft persistence. 
+
 Backend logic fixes — workflow skip conditions, ATS optimization, resume parsing, AI gap analyzer inputs. 
+
 Covered multiple codebases in JavaScript, TypeScript, and Python.
 
 ---
