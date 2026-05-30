@@ -1,22 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050505,100:0a0a0a&height=200&section=header&text=HARSHITH%20PADAKANTI&fontSize=42&fontColor=cccccc&fontAlignY=55&animation=fadeIn&desc=backend%20%20%7C%20%20real-time%20%20%7C%20%20open%20source&descSize=12&descAlignY=75&descAlign=50&descColor=444444" />
+<img src="https://raw.githubusercontent.com/Harshith1702/Harshith1702/main/assets/blue.jpg" width="100%" style="border-radius:0px" alt="banner"/>
 
-<br/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1400&color=555555&center=true&vCenter=true&width=650&lines=2nd+year.+backend.+still+here.;350%2B+leetcode.+not+for+the+badge.;rocket.chat+merged+my+prs.+moving+on.;open+to+internships.+not+enthusiasm.;i+solve+problems.+people+are+usually+not+one+of+them.)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=1400&color=8888AA&center=true&vCenter=true&width=650&lines=2nd+year.+backend.+still+here.;350%2B+leetcode.+not+for+the+badge.;rocket.chat+merged+my+prs.+moving+on.;open+to+internships.+not+enthusiasm.;i+solve+problems.+people+are+usually+not+one+of+them.)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-080808?style=for-the-badge&logo=linkedin&logoColor=444444)](https://www.linkedin.com/in/harshith-padakanti)
-[![Portfolio](https://img.shields.io/badge/portfolio-080808?style=for-the-badge&logo=vercel&logoColor=444444)](https://harshith-padakanti.vercel.app)
-[![LeetCode](https://img.shields.io/badge/leetcode-080808?style=for-the-badge&logo=leetcode&logoColor=444444)](https://leetcode.com/u/Harshith-2007)
-[![Email](https://img.shields.io/badge/gmail-080808?style=for-the-badge&logo=gmail&logoColor=444444)](mailto:harshaharshith31@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=Harshith1702&color=080808&style=for-the-badge&label=VIEWS)
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=4a9eff)](https://www.linkedin.com/in/harshith-padakanti)
+[![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=4a9eff)](https://harshith-padakanti.vercel.app)
+[![LeetCode](https://img.shields.io/badge/leetcode-0d1117?style=for-the-badge&logo=leetcode&logoColor=4a9eff)](https://leetcode.com/u/Harshith-2007)
+[![Email](https://img.shields.io/badge/gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=4a9eff)](mailto:harshaharshith31@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=Harshith1702&color=0d1117&style=for-the-badge&label=VIEWS&labelColor=0d1117&color=4a9eff)
 
 </div>
 
 ---
+
+<img align="right" src="https://raw.githubusercontent.com/Harshith1702/Harshith1702/main/assets/p.png" width="160" style="border-radius:12px; margin-left:20px; filter:grayscale(20%)" alt="Harshith"/>
 
 ```
 harshith@dev:~$ cat profile.txt
@@ -34,6 +40,8 @@ harshith@dev:~$ cat profile.txt
 
   condition  : functional
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -112,16 +120,16 @@ it got done.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode_1700%2B_·_350%2B_solved_·_top_15%25-080808?style=for-the-badge&logo=leetcode&logoColor=444444)](https://leetcode.com/u/Harshith-2007/)
-[![CodeChef](https://img.shields.io/badge/CodeChef_2★_·_170%2B_solved-080808?style=for-the-badge&logo=codechef&logoColor=444444)](https://www.codechef.com/users/harshith_2007)
-[![Codeforces](https://img.shields.io/badge/Codeforces_900%2B_rating-080808?style=for-the-badge&logo=codeforces&logoColor=444444)](https://codeforces.com/profile/harshaharshith31)
-[![SmartInterviews](https://img.shields.io/badge/SmartInterviews_top_7%25-080808?style=for-the-badge)](https://smartinterviews.in/profile/harshaharshith31)
+[![LeetCode](https://img.shields.io/badge/LeetCode_1700%2B_·_350%2B_solved_·_top_15%25-0d1117?style=for-the-badge&logo=leetcode&logoColor=4a9eff)](https://leetcode.com/u/Harshith-2007/)
+[![CodeChef](https://img.shields.io/badge/CodeChef_2★_·_170%2B_solved-0d1117?style=for-the-badge&logo=codechef&logoColor=4a9eff)](https://www.codechef.com/users/harshith_2007)
+[![Codeforces](https://img.shields.io/badge/Codeforces_900%2B_rating-0d1117?style=for-the-badge&logo=codeforces&logoColor=4a9eff)](https://codeforces.com/profile/harshaharshith31)
+[![SmartInterviews](https://img.shields.io/badge/SmartInterviews_top_7%25-0d1117?style=for-the-badge&logoColor=4a9eff)](https://smartinterviews.in/profile/harshaharshith31)
 
 </div>
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Harshith-2007?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&bgcolor=000000)](https://leetcode.com/u/Harshith-2007/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Harshith-2007?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&bgcolor=0d1117)](https://leetcode.com/u/Harshith-2007/)
 
 </div>
 
@@ -131,21 +139,21 @@ it got done.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harshith1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=444444&text_color=444444&icon_color=333333&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harshith1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4a9eff&text_color=8888aa&icon_color=4a9eff&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harshith1702&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=444444&text_color=444444&langs_count=6" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harshith1702&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4a9eff&text_color=8888aa&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harshith1702&theme=github-dark&hide_border=true&background=000000&ring=222222&fire=333333&currStreakLabel=555555&sideLabels=444444&currStreakNum=777777&sideNums=666666&dates=333333)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harshith1702&theme=github-dark&hide_border=true&background=0d1117&ring=4a9eff&fire=4a9eff&currStreakLabel=8888aa&sideLabels=8888aa&currStreakNum=ffffff&sideNums=cccccc&dates=555577)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshith1702&bg_color=000000&color=444444&line=222222&point=555555&area=true&area_color=0d0d0d&hide_border=true&custom_title=contribution+activity)](https://github.com/Harshith1702)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshith1702&bg_color=0d1117&color=4a9eff&line=1a3a5c&point=4a9eff&area=true&area_color=0a1929&hide_border=true&custom_title=contribution+activity)](https://github.com/Harshith1702)
 
 </div>
 
@@ -176,11 +184,13 @@ it got done.
 ---
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/Harshith1702/Harshith1702/main/assets/bill.jpg" width="100%" alt="footer"/>
+</div>
+
+<div align="center">
 
 ```
 i solve problems. people are usually not one of them.
 ```
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:000000&height=80&section=footer" />
