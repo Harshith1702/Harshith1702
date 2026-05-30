@@ -51,7 +51,7 @@ harshith@dev:~$ cat profile.txt
 
 ### GSSoC 2026 — ongoing
 
-**SkillsSphere AI**
+**SkillsSphere AI** — socket status indicator, dead code removal, light mode fixes across classroom UI.
 [#556](https://github.com/swayam03275/SkillsSphere-AI/pull/556) · [#579](https://github.com/swayam03275/SkillsSphere-AI/pull/579) · [#592](https://github.com/swayam03275/SkillsSphere-AI/pull/592) · [#600](https://github.com/swayam03275/SkillsSphere-AI/pull/600)
 
 **GSoC Org Finder** — corrected mentor contact info for a dozen orgs. someone had to.
