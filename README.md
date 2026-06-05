@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=i+build+things.+they+work.+that%27s+it.;25%2B+PRs+merged+across+GSSoC+%7C+NSoC+2026.;contributed+to+Rocket.Chat+develop+branch.;350%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=i+build+things.+they+work.+that%27s+it.;40%2B+PRs+merged+across+GSSoC+%7C+NSoC+2026.;contributed+to+Rocket.Chat+develop+branch.;350%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
 
 <br/>
 
