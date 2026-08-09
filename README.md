@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=i+build+things.+they+work.+that%27s+it.;40%2B+PRs+merged+across+GSSoC+%7C+NSoC+2026.;contributed+to+Rocket.Chat+develop+branch.;350%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=i+build+things.+they+work.+that%27s+it.;30%2B+PRs+merged+in+NSoC+2026+%7C+rank+70%2F988.;contributed+to+Rocket.Chat+develop+branch.;400%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,13 +27,13 @@
 │
 ├── location    : hell i guess
 ├── degree      : B.Tech CSE @ CMR Technical Campus (CGPA: 8.52)
-├── status      : 2nd year undergrad | Expected 2028
+├── status      : 3rd year undergrad | Expected 2028
 ├── portfolio   : https://harshith-padakanti.vercel.app
 │
-├── building    : GSSoC 2026 | NSoC 2026 (20+ PRs) | SSoC 2026
+├── building    : GSSoC 2026 | NSoC 2026 (30+ PRs, rank 70/988) | SSoC 2026
 │                 LeetCode Discord Reporter — live | zero maintenance
 │
-├── grinding    : LeetCode | CodeChef | Codeforces | SmartInterviews
+├── grinding    : LeetCode (400+) | CodeChef | Codeforces | SmartInterviews
 │                 daily. consistency over everything.
 │
 └── open to     : Backend Internships | OSS | Interesting problems
@@ -43,11 +43,11 @@
 
 ## ◾ About
 
-Backend dev. Hyderabad. 2nd year. I write code that works, ships, and doesn't need me to explain it.
+Backend dev. Hyderabad. 3rd year. I write code that works, ships, and doesn't need me to explain it.
 
 Node.js | Socket.IO | Java | real-time systems | DSA daily.
 
-Looking for backend internships. Summer/Fall 2026.
+Looking for backend internships.
 
 ---
 
@@ -80,7 +80,7 @@ Looking for backend internships. Summer/Fall 2026.
  
 ---
  
-### NSoC 2026 — 20+ PRs merged
+### NSoC 2026 — 30+ PRs merged, ranked 70/988
  
 UI bugs. Backend logic. API pagination. Response envelopes. URL state encoding. Form drafts. Resume parsing. AI inputs. JavaScript, TypeScript, Python.
  
@@ -133,6 +133,8 @@ it got done.
 </div>
 
 <div align="center">
+
+400+ problems solved · 55+ contests · 1720 max rating
 
 [![LeetCode Contest](https://leetcard.jacoblin.cool/Harshith-2007?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&bgcolor=000000)](https://leetcode.com/u/Harshith-2007/)
 
@@ -218,6 +220,7 @@ it got done.
 ## ◾ Achievements
 
 - 🏆 Selected for SIH 2025 | Technovanza 5.0 Internal Hackathon
+- 🥈 Ranked 70/988 in NSoC 2026
 - 🔧 IoT Bootcamp | Sansa Innovations Pvt. Ltd.
 - 📜 C Programming Certification | Spoken Tutorial by IIT Bombay
 
