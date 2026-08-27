@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=i+build+things.+they+work.+that%27s+it.;30%2B+PRs+merged+in+NSoC+2026+%7C+rank+70%2F988.;contributed+to+Rocket.Chat+develop+branch.;400%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=i+build+things.+they+work.+that%27s+it.;i+ask+why+more+than+how.;30%2B+PRs+merged+in+NSoC+2026+%7C+rank+70%2F988.;contributed+to+Rocket.Chat+develop+branch.;built+GrindLens+because+I+kept+forgetting+my+own+patterns.;400%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@
 ├── status      : 3rd year undergrad | Expected 2028
 ├── portfolio   : https://harshith-padakanti.vercel.app
 │
-├── building    : GSSoC 2026 | NSoC 2026 (30+ PRs, rank 70/988) | SSoC 2026
+├── building    : GrindLens | GSSoC 2026 | NSoC 2026 (30+ PRs, rank 70/988) | SSoC 2026
 │                 LeetCode Discord Reporter — live | zero maintenance
 │
 ├── grinding    : LeetCode (400+) | CodeChef | Codeforces | SmartInterviews
@@ -43,11 +43,13 @@
 
 ## ◾ About
 
-Backend dev. Hyderabad. 3rd year. I write code that works, ships, and doesn't need me to explain it.
+backend dev. hyderabad. 3rd year.
 
-Node.js | Socket.IO | Java | real-time systems | DSA daily.
+most of what I build starts as a question, not a plan. why did this break, why does this repo have no tests, why is this endpoint slow when the query looks fine. I chase that more than I chase finished products.
 
-Looking for backend internships.
+node.js, socket.io, java, real-time systems, dsa daily. not for the streak. stopping just feels worse than showing up.
+
+looking for backend internships.
 
 ---
 
@@ -98,6 +100,7 @@ it got done.
 
 | Project | Description | Stack | Link |
 |:---|:---|:---|:---:|
+| *GrindLens* | [[what does it actually do — track leetcode grind, visualize patterns, something else? tell me and I'll lock this in]] | Next.js 15 TypeScript Drizzle ORM Neon PostgreSQL | [Code](#) |
 | *Open Chat App* | Real-time rooms, password-protected, typing indicators, 100-user cap | Node.js Express Socket.IO | [Live ↗️](https://open-chat-application-ubti.onrender.com) · [Code](https://github.com/Harshith1702/Open_Chat_Application) |
 | *LeetCode Grind Tracker* | Full-stack tracker with Python sync pipeline, MySQL views, PHP API, and dashboard analytics | Python PHP MySQL JavaScript | [Code](https://github.com/Harshith1702/leetcode-grind-tracker) |
 | *LeetCode Discord Reporter* | Fetches accepted submissions daily, posts to Discord at 10:15 PM IST automatically | GitHub Actions cron-job.org | [Code](https://github.com/Harshith1702/leetcode-discord-reporter) |
