@@ -1,0 +1,59 @@
+<svg viewBox="0 0 615 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect width="615" height="450" fill="#050505"/>
+
+  <!-- card -->
+  <g filter="url(#cardShadow)">
+    <rect x="4" y="4" width="607" height="442" rx="14" fill="#0d0d0d" stroke="#242424" stroke-width="1"/>
+  </g>
+
+  <!-- title bar -->
+  <circle cx="30" cy="34" r="5" fill="#e0554f"/>
+  <circle cx="48" cy="34" r="5" fill="#dfae4a"/>
+  <circle cx="66" cy="34" r="5" fill="#5aae5a"/>
+  <text x="90" y="39" font-family="JetBrains Mono, monospace" font-size="13" fill="#6e6e6e">grindlens.dev/u/example</text>
+  <line x1="0" y1="58" x2="615" y2="58" stroke="#1e1e1e" stroke-width="1"/>
+
+  <!-- pattern gap label -->
+  <text x="30" y="98" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="1.5" fill="#8a8a8a" font-weight="600">PATTERN GAP</text>
+  <text x="30" y="132" font-family="Arial, sans-serif" font-size="27" fill="#f2f2f2" font-weight="700">Sliding Window</text>
+
+  <!-- practiced / not explored line -->
+  <text x="30" y="167" font-family="Arial, sans-serif" font-size="13.5">
+    <tspan fill="#4caf50" font-weight="700">Practiced</tspan>
+    <tspan fill="#a8a8a8"> Arrays &#183; Hash Map &#183; Two Pointers    </tspan>
+    <tspan fill="#F5A623" font-weight="700">Not yet explored</tspan>
+    <tspan fill="#c8c8c8"> Sliding Window</tspan>
+  </text>
+
+  <!-- solve next label -->
+  <circle cx="34" cy="200" r="6" fill="none" stroke="#F5A623" stroke-width="1.5"/>
+  <circle cx="34" cy="200" r="2.4" fill="#F5A623"/>
+  <text x="50" y="205" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="1.5" fill="#a8a8a8" font-weight="600">SOLVE NEXT</text>
+
+  <!-- row 1 -->
+  <rect x="30" y="222" width="555" height="52" rx="10" fill="#111111" stroke="#1e1e1e" stroke-width="1"/>
+  <text x="50" y="253" font-family="Arial, sans-serif" font-size="14" fill="#7a7a7a" font-weight="700">1</text>
+  <text x="76" y="253" font-family="Arial, sans-serif" font-size="14.5" fill="#e8e8e8" font-weight="600">Longest Substring Without Repeating Characters</text>
+  <rect x="500" y="235" width="66" height="26" rx="13" fill="#3a2a10" stroke="#F5A623" stroke-width="1"/>
+  <text x="533" y="252" font-family="Arial, sans-serif" font-size="10.5" fill="#F5A623" font-weight="700" text-anchor="middle">MEDIUM</text>
+
+  <!-- row 2 -->
+  <rect x="30" y="284" width="555" height="52" rx="10" fill="#111111" stroke="#1e1e1e" stroke-width="1"/>
+  <text x="50" y="315" font-family="Arial, sans-serif" font-size="14" fill="#7a7a7a" font-weight="700">2</text>
+  <text x="76" y="315" font-family="Arial, sans-serif" font-size="14.5" fill="#e8e8e8" font-weight="600">Longest Repeating Character Replacement</text>
+  <rect x="500" y="297" width="66" height="26" rx="13" fill="#3a2a10" stroke="#F5A623" stroke-width="1"/>
+  <text x="533" y="314" font-family="Arial, sans-serif" font-size="10.5" fill="#F5A623" font-weight="700" text-anchor="middle">MEDIUM</text>
+
+  <!-- row 3 -->
+  <rect x="30" y="346" width="555" height="52" rx="10" fill="#111111" stroke="#1e1e1e" stroke-width="1"/>
+  <text x="50" y="377" font-family="Arial, sans-serif" font-size="14" fill="#7a7a7a" font-weight="700">3</text>
+  <text x="76" y="377" font-family="Arial, sans-serif" font-size="14.5" fill="#e8e8e8" font-weight="600">Minimum Window Substring</text>
+  <rect x="512" y="359" width="54" height="26" rx="13" fill="#3a1414" stroke="#d9534f" stroke-width="1"/>
+  <text x="539" y="376" font-family="Arial, sans-serif" font-size="10.5" fill="#e0736f" font-weight="700" text-anchor="middle">HARD</text>
+</svg>
