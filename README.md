@@ -1,26 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=160&section=header&text=HARSHITH%20PADAKANTI&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=Backend%20Developer%20%7C%20Real-Time%20Systems%20%7C%20Open%20Source&descSize=13&descAlignY=80&descAlign=50&descColor=777777" />
-
-<br/>f
-
-<!-- <img src="YOUR_PHOTO.png" width="120" style="border-radius:50%" alt="Harshith Padakanti" /> -->
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=i+build+things.+they+work.+that%27s+it.;30%2B+PRs+merged+in+NSoC+2026+%7C+rank+70%2F988.;contributed+to+Rocket.Chat+develop+branch.;built+GrindLens+because+leetcode+stats+lie+to+you.;400%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=170&section=header&text=HARSHITH%20PADAKANTI&fontSize=42&fontColor=ffffff&fontAlignY=58&animation=fadeIn&desc=backend%20dev%20%C2%B7%20building%20GrindLens%20%C2%B7%20open%20source&descSize=14&descAlignY=80&descAlign=50&descColor=F5A623" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-padakanti)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://harshith-padakanti.vercel.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Harshith-2007)
-[![Email](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaharshith31@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=111111&style=for-the-badge&label=VIEWS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=720&lines=i+build+things.+they+work.+that%27s+it.;building+GrindLens+because+leetcode+stats+lie+to+you.;30%2B+PRs+merged+in+NSoC+2026+%7C+rank+70%2F988.;contributed+to+Rocket.Chat+develop+branch.;400%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
+
+[![Building](https://img.shields.io/badge/currently_building-GrindLens-F5A623?style=for-the-badge&labelColor=0a0a0a)](https://grindlens.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-padakanti)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://harshith-padakanti.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Harshith-2007)
+![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=0a0a0a&style=for-the-badge&label=VIEWS)
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## ◾ GrindLens
+
+<img src="./assets/grindlens-banner.svg" width="100%" alt="GrindLens" />
+
+<!-- swap this for a real dashboard screenshot once you have one: ./assets/grindlens-preview.png -->
+
+Open your LeetCode profile right now. Look at the heatmap. Notice how it can't tell you if you've actually gotten better, only that you clicked submit some days and not others.
+
+That's the problem GrindLens is for.
+
+Most trackers count. GrindLens reads. It merges your streak across years instead of resetting it the moment you miss a login. It scores authenticity instead of just totals, so grinding the same three easy problems on repeat stops looking identical to real progress. It shows you the pattern you're in, not just the number that came out of it.
+
+**[grindlens.dev](https://grindlens.dev)** — no signup wall to look around, just log in with LeetCode and see your own data rendered honestly.
+
+Building it solo, in public, right now. Every redesign is one less thing that made it look like a template. If you use it and something's off, that's not a bug report, that's the roadmap. [Tell me on LinkedIn](https://www.linkedin.com/in/harshith-padakanti) or drop it in an email.
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ```bash
 ┌─[harshith@dev]─[~]
@@ -40,8 +52,6 @@
 └── open to     : Backend Internships | OSS | Interesting problems
 ```
 
----
-
 ## ◾ About
 
 Backend dev. Hyderabad. 3rd year. I write code that works, ships, and doesn't need me to explain it.
@@ -50,23 +60,7 @@ Node.js, Socket.IO, Java, real-time systems, DSA daily.
 
 Looking for backend internships.
 
----
-
-## ◾ GrindLens
-
-<img src="grindlens-banner.svg" width="100%" alt="GrindLens" />
-
-<!-- swap this for a real dashboard screenshot once you have one: ./assets/grindlens-preview.png -->
-
-I check my LeetCode stats more than I'd like to admit. So I built the thing that checks them for me.
-
-GrindLens takes your LeetCode profile and turns it into something you'd actually open twice. Streaks that don't quietly reset because you missed a login. A dashboard that tells you what you're avoiding, not just what you've cleared.
-
-Live at [grindlens.dev](https://grindlens.dev).
-
-Still mid-rebuild. Ripping out the parts that made it look like every other weekend SaaS project, one screen at a time. Also wiring up analytics under the hood, so decisions come from what people actually do on the site instead of what I assume they do.
-
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ◾ Open Source
 
@@ -77,8 +71,6 @@ Still mid-rebuild. Ripping out the parts that made it look like every other week
 - [#39455](https://github.com/RocketChat/Rocket.Chat/pull/39455) — timestamp parsing inside formatted text. it was broken.
 - [#39737](https://github.com/RocketChat/Rocket.Chat/pull/39737) — test coverage for `isNodeOfType` guard. had none.
 - [#39733](https://github.com/RocketChat/Rocket.Chat/pull/39733) — emoji behavior tests in `reducePlainTexts`. also broken.
-
----
 
 ### GSSoC 2026 — ongoing
 
@@ -96,19 +88,15 @@ Still mid-rebuild. Ripping out the parts that made it look like every other week
 
 **Cara** — button text wasn't visible. [#255](https://github.com/janavipandole/Cara/pull/255)
 
----
-
 ### NSoC 2026 — 30+ PRs merged, ranked 70/988
 
 UI bugs. Backend logic. API pagination. Response envelopes. URL state encoding. Form drafts. Resume parsing. AI inputs. JavaScript, TypeScript, Python.
 
 it got done.
 
----
-
 ### SSoC 2026 — selected
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ◾ Other Projects
 
@@ -126,20 +114,16 @@ it got done.
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ◾ Competitive Programming
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Harshith-2007/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-111111?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshith_2007)
-[![Codeforces](https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshaharshith31)
-[![SmartInterviews](https://img.shields.io/badge/SmartInterviews-111111?style=for-the-badge)](https://smartinterviews.in/profile/harshaharshith31)
-
-</div>
-
-<div align="center">
+[![LeetCode](https://img.shields.io/badge/LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Harshith-2007/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0a0a0a?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshith_2007)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshaharshith31)
+[![SmartInterviews](https://img.shields.io/badge/SmartInterviews-0a0a0a?style=for-the-badge)](https://smartinterviews.in/profile/harshaharshith31)
 
 400+ problems solved · 55+ contests · 1720 max rating
 
@@ -147,45 +131,21 @@ it got done.
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## ◾ GitHub Stats
+## ◾ GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harshith1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=888888&include_all_commits=true&count_private=true&ring_color=00ffff" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harshith1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=F5A623&include_all_commits=true&count_private=true&ring_color=F5A623" />
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harshith1702&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&langs_count=6" />
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harshith1702&theme=github-dark&hide_border=true&background=000000&ring=00ffff&fire=00e5ff&currStreakLabel=aaaaaa&sideLabels=888888&currStreakNum=ffffff&sideNums=cccccc&dates=555555)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harshith1702&theme=github-dark&hide_border=true&background=000000&ring=F5A623&fire=F5A623&currStreakLabel=aaaaaa&sideLabels=888888&currStreakNum=ffffff&sideNums=cccccc&dates=555555)](https://git.io/streak-stats)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Harshith1702&theme=onestar&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Harshith1702)
 
-</div>
-
----
-
-## ◾ Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshith1702&bg_color=000000&color=888888&line=00bcd4&point=00ffff&area=true&area_color=002f33&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Harshith1702)
-
-</div>
-
----
-
-## ◾ Snake
-
-<div align="center">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshith1702&bg_color=000000&color=888888&line=F5A623&point=ffffff&area=true&area_color=1a1206&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Harshith1702)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake-dark.svg"/>
@@ -195,7 +155,7 @@ it got done.
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ◾ Core Concepts
 
@@ -205,8 +165,6 @@ it got done.
 - CI/CD, Automation, Testing
 - Open Source, Competitive Programming
 
----
-
 ## ◾ Achievements
 
 - 🏆 Selected for SIH 2025 | Technovanza 5.0 Internal Hackathon
@@ -214,7 +172,7 @@ it got done.
 - 🔧 IoT Bootcamp | Sansa Innovations Pvt. Ltd.
 - 📜 C Programming Certification | Spoken Tutorial by IIT Bombay
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
