@@ -54,7 +54,7 @@ Looking for backend internships.
 
 ## ◾ GrindLens
 
-<img src=".grindlens-banner.svg" width="100%" alt="GrindLens" />
+<img src="grindlens-banner.svg" width="100%" alt="GrindLens" />
 
 <!-- swap this for a real dashboard screenshot once you have one: ./assets/grindlens-preview.png -->
 
