@@ -18,7 +18,7 @@
 
 ## ◾ GrindLens
 
-<img src="./assets/grindlens-preview.png" width="100%" alt="GrindLens — LeetCode shows progress, GrindLens shows direction" />
+<img src="./assets/grindlens-preview.png" width="480" alt="GrindLens pattern gap card — weakest topic and what to solve next" />
 
 name your 3 weakest DSA topics right now. from memory. no sheet open, no stats page, just what you remember.
 
@@ -41,7 +41,7 @@ Building it solo, in public, right now. Every redesign is one less thing that ma
 ├── portfolio   : https://harshith-padakanti.vercel.app
 │
 ├── building    : GrindLens — leetcode analytics, grindlens.dev
-│                 GSSoC 2026 | NSoC 2026 (30+ PRs, rank 70/988) | SSoC 2026
+│                 GSSoC 2026 | NSoC 2026 (30+ PRs, rank 70/988)
 │                 LeetCode Discord Reporter — live | zero maintenance
 │
 ├── grinding    : LeetCode (400+) | CodeChef | Codeforces | SmartInterviews
@@ -101,8 +101,6 @@ Looking for backend internships.
 UI bugs. Backend logic. API pagination. Response envelopes. URL state encoding. Form drafts. Resume parsing. AI inputs. JavaScript, TypeScript, Python.
 
 it got done.
-
-### SSoC 2026 — selected
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -178,8 +176,6 @@ it got done.
 <div align="center">
 
 *open to backend internships. open to interesting problems. not open to small talk.*
-
-*profile views don't matter. projects do.*
 
 </div>
 
