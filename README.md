@@ -22,13 +22,13 @@
 
 <!-- swap this for a real dashboard screenshot once you have one: ./assets/grindlens-preview.png -->
 
-Open your LeetCode profile right now. Look at the heatmap. Notice how it can't tell you if you've actually gotten better, only that you clicked submit some days and not others.
+name your 3 weakest DSA topics right now. from memory. no sheet open, no stats page, just what you remember.
 
-That's the problem GrindLens is for.
+most people can't. i couldn't either, and i'd already solved 400+ problems at that point.
 
-Most trackers count. GrindLens reads. It merges your streak across years instead of resetting it the moment you miss a login. It scores authenticity instead of just totals, so grinding the same three easy problems on repeat stops looking identical to real progress. It shows you the pattern you're in, not just the number that came out of it.
+that gap is the whole reason GrindLens exists. not another streak tracker. it tracks what you've actually covered against what you've been quietly avoiding, and it comes with sheets, Blind 75, NeetCode 150, company-tagged sets, or your own, so the gap it finds turns into something you can actually go fix.
 
-**[grindlens.dev](https://grindlens.dev)** — no signup wall to look around, just log in with LeetCode and see your own data rendered honestly.
+**[grindlens.dev](https://grindlens.dev)** — no signup wall to look around, log in with LeetCode and see where you actually stand.
 
 Building it solo, in public, right now. Every redesign is one less thing that made it look like a template. If you use it and something's off, that's not a bug report, that's the roadmap. [Tell me on LinkedIn](https://www.linkedin.com/in/harshith-padakanti) or drop it in an email.
 
