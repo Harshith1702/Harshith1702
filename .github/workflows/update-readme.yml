@@ -1,0 +1,29 @@
+name: Update README LeetCode stats
+
+on:
+  schedule:
+    - cron: "15 18 * * *"   # 10:15 PM IST daily, same slot as leetcode-discord-reporter
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch stats and update README
+        run: node scripts/update-readme.js
+        env:
+          LEETCODE_USERNAME: Harshith-2007
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: sync leetcode stats" && git push)
