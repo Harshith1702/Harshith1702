@@ -4,7 +4,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=i+build+things.+they+work.+that%27s+it.;i+ask+why+more+than+how.;building+GrindLens.+live+at+grindlens.dev.+still+not+done.;30%2B+PRs+merged+in+NSoC+2026.+rank+70%2F988.;contributed+to+Rocket.Chat+develop+branch.;400%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
+<!-- <img src="YOUR_PHOTO.png" width="120" style="border-radius:50%" alt="Harshith Padakanti" /> -->
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=i+build+things.+they+work.+that%27s+it.;30%2B+PRs+merged+in+NSoC+2026+%7C+rank+70%2F988.;contributed+to+Rocket.Chat+develop+branch.;400%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,15 +27,14 @@
 │
 ├── location    : hell i guess
 ├── degree      : B.Tech CSE @ CMR Technical Campus (CGPA: 8.52)
-├── status      : 3rd year undergrad. Expected 2028
+├── status      : 3rd year undergrad | Expected 2028
 ├── portfolio   : https://harshith-padakanti.vercel.app
 │
-├── building    : GrindLens (main build, live at grindlens.dev)
-│                 GSSoC 2026 | NSoC 2026 (30+ PRs, rank 70/988) | SSoC 2026
-│                 LeetCode Discord Reporter. live. zero maintenance
+├── building    : GSSoC 2026 | NSoC 2026 (30+ PRs, rank 70/988) | SSoC 2026
+│                 LeetCode Discord Reporter — live | zero maintenance
 │
 ├── grinding    : LeetCode (400+) | CodeChef | Codeforces | SmartInterviews
-│                 daily. consistency over everything
+│                 daily. consistency over everything.
 │
 └── open to     : Backend Internships | OSS | Interesting problems
 ```
@@ -40,41 +43,11 @@
 
 ## ◾ About
 
-backend dev. hyderabad. 3rd year.
+Backend dev. Hyderabad. 3rd year. I write code that works, ships, and doesn't need me to explain it.
 
-most of what I build starts as a question, not a plan. why did this break, why does this repo have no tests, why is this endpoint slow when the query looks fine. I chase that more than I chase finished products.
+Node.js | Socket.IO | Java | real-time systems | DSA daily.
 
-node.js, socket.io, java, real-time systems, dsa daily. not for the streak. stopping just feels worse than showing up.
-
-looking for backend internships.
-
----
-
-<div align="center">
-
-## ◾ Currently Building: GrindLens
-
-[![Status](https://img.shields.io/badge/status-live-3ea56a?style=for-the-badge)](https://grindlens.dev)
-[![Redesign](https://img.shields.io/badge/redesign-in%20progress-e8a33d?style=for-the-badge)](#)
-[![Skills](https://skillicons.dev/icons?i=nextjs,ts,postgres&theme=dark)](https://skillicons.dev)
-
-</div>
-
-this is the main thing right now, not something I tinker with on the side.
-
-LeetCode tells you how much you solved. it doesn't tell you what you're avoiding. GrindLens does that part. paste your handle, it pulls your submissions, checks them against sheets like NeetCode 150, Blind 75, Striver A2Z, and points at the pattern you keep skipping. not a leaderboard. a gap finder.
-
-built solo, end to end. auth, feature gating, streak merging across years of submission history, an authenticity score that stays neutral instead of just flagging people "fake."
-
-stack: Next.js 16, TypeScript, Neon Postgres, Drizzle ORM. schema changes go straight through `drizzle-kit push`, skipped the generate/migrate ceremony on purpose.
-
-got first users by DMing people on X directly instead of waiting around for organic traffic. did a Prettiflow hackathon off the back of it, got into FlowHouse Cohort 1.
-
-mid-redesign right now: killed the leftover blue/purple palette for near-black plus amber (`#F5A623`), and stripping out everything that reads as "AI-generated SaaS," blob glows, gradient headlines, centered hero stacks, cards stacked on cards. hero's done, asymmetric two-column, hierarchy from type size and weight only, no color tricks holding it up. rest of the dashboard's still queued.
-
-also building a proper event tracking layer on the same Postgres setup, covering the funnel end to end: landing, signup, whether people actually come back.
-
-[Live ↗️](https://grindlens.dev)
+Looking for backend internships.
 
 ---
 
@@ -84,31 +57,30 @@ also building a proper event tracking layer on the same Postgres setup, covering
  
 3 PRs into `develop`. Reviewed and consolidated by Gazzo into batch PR [#39853](https://github.com/RocketChat/Rocket.Chat/pull/39853) with 9 other contributors.
  
-- [#39455](https://github.com/RocketChat/Rocket.Chat/pull/39455): timestamp parsing inside formatted text. it was broken.
-- [#39737](https://github.com/RocketChat/Rocket.Chat/pull/39737): test coverage for `isNodeOfType` guard. had none.
-- [#39733](https://github.com/RocketChat/Rocket.Chat/pull/39733): emoji behavior tests in `reducePlainTexts`. also broken.
-
+- [#39455](https://github.com/RocketChat/Rocket.Chat/pull/39455) — timestamp parsing inside formatted text. it was broken.
+- [#39737](https://github.com/RocketChat/Rocket.Chat/pull/39737) — test coverage for `isNodeOfType` guard. had none.
+- [#39733](https://github.com/RocketChat/Rocket.Chat/pull/39733) — emoji behavior tests in `reducePlainTexts`. also broken.
 ---
  
-### GSSoC 2026, ongoing
+### GSSoC 2026 — ongoing
  
-**SkillsSphere AI**: socket status indicator, dead code removal, light mode fixes across classroom UI.
+**SkillsSphere AI** — socket status indicator, dead code removal, light mode fixes across classroom UI.
 [#556](https://github.com/swayam03275/SkillsSphere-AI/pull/556) · [#579](https://github.com/swayam03275/SkillsSphere-AI/pull/579) · [#592](https://github.com/swayam03275/SkillsSphere-AI/pull/592) · [#600](https://github.com/swayam03275/SkillsSphere-AI/pull/600)
  
-**GSoC Org Finder**: corrected mentor contact info for a dozen orgs. someone had to.
+**GSoC Org Finder** — corrected mentor contact info for a dozen orgs. someone had to.
 [#544](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/544) · [#549](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/549) · [#583](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/583) · [#590](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/590) · [#639](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/639) · [#643](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/643) · [#649](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-/pull/649)
  
-**Reframe**: memory leak on export failure. CDN hints for FFmpeg.
+**Reframe** — memory leak on export failure. CDN hints for FFmpeg.
 [#310](https://github.com/magic-peach/reframe/pull/310) · [#311](https://github.com/magic-peach/reframe/pull/311)
  
-**Eventra**: localStorage draft persistence. toast was in the wrong place.
+**Eventra** — localStorage draft persistence. toast was in the wrong place.
 [#1256](https://github.com/SandeepVashishtha/Eventra/pull/1256) · [#1194](https://github.com/SandeepVashishtha/Eventra/pull/1194)
  
-**Cara**: button text wasn't visible. [#255](https://github.com/janavipandole/Cara/pull/255)
+**Cara** — button text wasn't visible. [#255](https://github.com/janavipandole/Cara/pull/255)
  
 ---
  
-### NSoC 2026, 30+ PRs merged, ranked 70/988
+### NSoC 2026 — 30+ PRs merged, ranked 70/988
  
 UI bugs. Backend logic. API pagination. Response envelopes. URL state encoding. Form drafts. Resume parsing. AI inputs. JavaScript, TypeScript, Python.
  
@@ -116,11 +88,11 @@ it got done.
  
 ---
  
-### SSoC 2026, selected
+### SSoC 2026 — selected
  
 ---
 
-## ◾ Other Projects
+## ◾ Featured Projects
 
 <div align="center">
 
@@ -129,9 +101,20 @@ it got done.
 | *Open Chat App* | Real-time rooms, password-protected, typing indicators, 100-user cap | Node.js Express Socket.IO | [Live ↗️](https://open-chat-application-ubti.onrender.com) · [Code](https://github.com/Harshith1702/Open_Chat_Application) |
 | *LeetCode Grind Tracker* | Full-stack tracker with Python sync pipeline, MySQL views, PHP API, and dashboard analytics | Python PHP MySQL JavaScript | [Code](https://github.com/Harshith1702/leetcode-grind-tracker) |
 | *LeetCode Discord Reporter* | Fetches accepted submissions daily, posts to Discord at 10:15 PM IST automatically | GitHub Actions cron-job.org | [Code](https://github.com/Harshith1702/leetcode-discord-reporter) |
+
+</div>
+
+---
+
+## ◾ Other Projects
+
+<div align="center">
+
+| Project | Description | Stack | Link |
+|:---|:---|:---|:---:|
 | *Social Media Follower System* | Graph-based: follow/unfollow, mutual suggestions | C DSA | [Code](https://github.com/Harshith1702/Social_Media_Follower_System_C) |
 | *Eclipse Attendance* | QR-based, teacher/student dashboards, CSV export, fully browser-side | HTML CSS JS | [Code](https://github.com/Harshith1702/eclipse-attendance-app) |
-| *Smart Dustbin* | IR sensor + servo motor automation | Arduino C++ IoT | n/a |
+| *Smart Dustbin* | IR sensor + servo motor automation | Arduino C++ IoT | — |
 | *Web Scraper* | Data extraction in Java + Python using Jsoup + BeautifulSoup | Java Python | [Code](https://github.com/Harshith1702/Web_Scraper) |
 
 </div>
@@ -215,7 +198,7 @@ it got done.
 [![Skills](https://skillicons.dev/icons?i=java,js,ts,python,c,php,html,css&theme=dark)](https://skillicons.dev)
 
 **Backend**
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark)](https://skillicons.dev)
 
 **Tools & DevOps**
 [![Skills](https://skillicons.dev/icons?i=git,github,githubactions,linux&theme=dark)](https://skillicons.dev)
