@@ -18,9 +18,7 @@
 
 ## ◾ GrindLens
 
-<img src="./assets/grindlens-banner.svg" width="100%" alt="GrindLens" />
-
-<!-- swap this for a real dashboard screenshot once you have one: ./assets/grindlens-preview.png -->
+<img src="./assets/grindlens-preview.png" width="100%" alt="GrindLens — LeetCode shows progress, GrindLens shows direction" />
 
 name your 3 weakest DSA topics right now. from memory. no sheet open, no stats page, just what you remember.
 
@@ -51,6 +49,16 @@ Building it solo, in public, right now. Every redesign is one less thing that ma
 │
 └── open to     : Backend Internships | OSS | Interesting problems
 ```
+
+<div align="center">
+
+<!-- LEETCODE-STATS:START -->
+`400+ solved` · `1720 rating` · synced `Aug 28, 2026`
+<!-- LEETCODE-STATS:END -->
+
+*this line updates itself. [see the workflow](./.github/workflows/update-readme.yml)*
+
+</div>
 
 ## ◾ About
 
@@ -164,13 +172,6 @@ it got done.
 - OOP, Backend Development
 - CI/CD, Automation, Testing
 - Open Source, Competitive Programming
-
-## ◾ Achievements
-
-- 🏆 Selected for SIH 2025 | Technovanza 5.0 Internal Hackathon
-- 🥈 Ranked 70/988 in NSoC 2026
-- 🔧 IoT Bootcamp | Sansa Innovations Pvt. Ltd.
-- 📜 C Programming Certification | Spoken Tutorial by IIT Bombay
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
