@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=160&section=header&text=HARSHITH%20PADAKANTI&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=Backend%20Developer%20%7C%20Real-Time%20Systems%20%7C%20Open%20Source&descSize=13&descAlignY=80&descAlign=50&descColor=777777" />
 
-<br/>
+<br/>f
 
 <!-- <img src="YOUR_PHOTO.png" width="120" style="border-radius:50%" alt="Harshith Padakanti" /> -->
 
@@ -54,7 +54,7 @@ Looking for backend internships.
 
 ## ◾ GrindLens
 
-<img src="./assets/grindlens-banner.svg" width="100%" alt="GrindLens" />
+<img src=".grindlens-banner.svg" width="100%" alt="GrindLens" />
 
 <!-- swap this for a real dashboard screenshot once you have one: ./assets/grindlens-preview.png -->
 
