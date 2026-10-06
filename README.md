@@ -53,7 +53,7 @@ Building it solo, in public, right now. Every redesign is one less thing that ma
 <div align="center">
 
 <!-- LEETCODE-STATS:START -->
-`465 solved` · `1577 rating` · synced `Oct 4, 2026`
+`465 solved` · `1577 rating` · synced `Oct 6, 2026`
 <!-- LEETCODE-STATS:END -->
 
 *this line updates itself. [see the workflow](./.github/workflows/update-readme.yml)*
