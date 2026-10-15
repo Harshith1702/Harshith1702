@@ -1,34 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=170&section=header&text=HARSHITH%20PADAKANTI&fontSize=42&fontColor=ffffff&fontAlignY=58&animation=fadeIn&desc=backend%20dev%20%C2%B7%20building%20GrindLens%20%C2%B7%20open%20source&descSize=14&descAlignY=80&descAlign=50&descColor=F5A623" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=140&section=header&text=HARSHITH%20PADAKANTI&fontSize=42&fontColor=ffffff&fontAlignY=58&desc=backend%20dev%20%C2%B7%20building%20GrindLens%20%C2%B7%20open%20source&descSize=14&descAlignY=80&descAlign=50&descColor=F5A623" alt="Harshith Padakanti, backend dev, building GrindLens" />
 
-<br/>
+<p>i build things. they work. that's it.</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=ffffff&center=true&vCenter=true&width=720&lines=i+build+things.+they+work.+that%27s+it.;building+GrindLens+because+leetcode+stats+lie+to+you.;30%2B+PRs+merged+in+NSoC+2026+%7C+rank+70%2F988.;contributed+to+Rocket.Chat+develop+branch.;400%2B+leetcode.+1720+rating.+still+going.;i+find+people+exhausting.+code%2C+less+so.)](https://git.io/typing-svg)
+<p>node.js · socket.io · java · real-time systems · 400+ leetcode</p>
+
+<p>30+ PRs merged in NSoC 2026 · rank 70/988 · contributed to Rocket.Chat develop branch</p>
 
 [![Building](https://img.shields.io/badge/currently_building-GrindLens-F5A623?style=for-the-badge&labelColor=0a0a0a)](https://grindlens.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-padakanti)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://harshith-padakanti.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Harshith-2007)
-![Profile Views](https://komarev.com/ghpvc/?username=Harshith1702&color=0a0a0a&style=for-the-badge&label=VIEWS)
 
 </div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## ◾ GrindLens
-
-<img src="./assets/grindlens-preview.svg" width="480" alt="GrindLens pattern gap card — weakest topic and what to solve next" />
-
-name your 3 weakest DSA topics right now. from memory. no sheet open, no stats page, just what you remember.
-
-most people can't. i couldn't either, and i'd already solved 400+ problems at that point.
-
-that gap is the whole reason GrindLens exists. not another streak tracker. it tracks what you've actually covered against what you've been quietly avoiding, and it comes with sheets, Blind 75, NeetCode 150, company-tagged sets, or your own, so the gap it finds turns into something you can actually go fix.
-
-**[grindlens.dev](https://grindlens.dev)** — no signup wall to look around, log in with LeetCode and see where you actually stand.
-
-Building it solo, in public, right now. Every redesign is one less thing that made it look like a template. If you use it and something's off, that's not a bug report, that's the roadmap. [Tell me on LinkedIn](https://www.linkedin.com/in/harshith-padakanti) or drop it in an email.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -60,13 +45,127 @@ Building it solo, in public, right now. Every redesign is one less thing that ma
 
 </div>
 
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## ◾ GrindLens
+
+building GrindLens because leetcode stats lie to you.
+
+<table>
+<tr>
+<td width="480" valign="top">
+
+<img src="./assets/grindlens-preview.svg" width="100%" alt="GrindLens pattern gap card showing weakest topic and what to solve next" />
+
+</td>
+<td valign="top">
+
+name your 3 weakest DSA topics right now. from memory. no sheet open, no stats page, just what you remember.
+
+most people can't. i couldn't either, and i'd already solved 400+ problems at that point.
+
+that gap is the whole reason GrindLens exists. it tracks what you've actually covered against what you've been quietly avoiding, then turns it into something you can go fix.
+
+sheets: Blind 75, NeetCode 150, company-tagged sets, or your own.
+
+**[grindlens.dev](https://grindlens.dev)** — no signup wall to look around, log in with LeetCode and see where you actually stand.
+
+Building it solo, in public, right now. Every redesign is one less thing that made it look like a template. If you use it and something's off, that's not a bug report, that's the roadmap. [Tell me on LinkedIn](https://www.linkedin.com/in/harshith-padakanti) or drop it in an email.
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ## ◾ About
+
+<table>
+<tr>
+<td width="510" valign="top">
+
+<pre>
+%%%%%%%%%%%%%%#########%%##+++++++++++**####*+++*#%%%%%%%%%%
+%%%%%%%%%%%%%##############*+++==+===++++++++++++*####%%%%%%
+%%%%%%%%%%%##########***#*++++=========+========++**##%%%%%%
+%%%%%%%%#########****++=++=+*++++*+==+==========++=+*#%%%%%%
+%%%%%%%##########*+++====++#%##%%%%#*#*=============*#%%%%%%
+%%%%%%#*******####*+====+#%@@@@@%%%%%%%#++==========*#%%%%%%
+%%%%%%#++++++++****+===+%%@@@@@@%%%%%%%@%%**++======+#%%%%%%
+%%%%%#*+==============+%@%@@@@@%%%%%%%%@@@#+========+#%%%%#%
+%%%%%##+=============*%@%%@@@@@%%%%%%%%%@@%*=-======+##%####
+%%%%%##*+===========+#%%%%@@%@@@%%%%%@@@@@%%#+=---===**#####
+%%%%%%##*+======-=-++#%%%%@@@@@@@%%%%@@@@@%@@#*+=--==+**####
+%%%%%%%###*++===-==+#@@%%%@@%@@@@@%%%@@@@@@@@%+==--==+**###%
+%%%%%%%#####*+=====*@@@@%%@%%@%%@@@@@@@@@@@%@@+-----=+**###%
+%%%%%%%%#%%##*+===*%@@@%%@@%%%%%@@@@@@@@@@@@@@#=---==+*##%%%
+%%%%%%%%#####*+==**#@@@@@@@%%%%@@@@@@@@@@@@@@@%+---==**##%%%
+%%%%%%%%##*+++====-+%@@@@@@@%%%@@@@@@@@@@@@@@@@#=--==*######
+%%%%%%%%##*+==-----+%@@@@@@@@%%@@@@@@@@@@@@@@@@%*=--=+***+*#
+%%%%%%%%###++==----#@@@@@@@@@@@@@@@@@@@@@@@@@@@#==---=====*#
+%%%%%%%%###***+===+%@@%@@@@@@@@@@@@@@@@@@@@@@@@#=--------==*
+%%%%%%%%######*+===*%%*#@@@@@@@@@@@@@@@@@@@@@@@#+---------=+
+%%%%##########*+===**#*#@@@@@@@@@@@@@@@@@@@@@@@#+-----------
+#%%%########**+=---=+#*#%@@@@@%%%@@@@@@@@@@@@@%++--:--------
+##########*++==-----=%**%@@@@@@%%%@@@@@@@@@@@@%==-::::------
+#########*+==-------=#*:*#@@@@%%%%@@@@@@@@@@@%%=:-:::::-----
+#########+=----------+%= -#@@%%%#%@@@@@%@@@@@++*-::::::-----
+########*+---:--:::::=#%* -#****##%@@@%@@@@@@=-+=:::::::----
+######*+=----:-:::::--=%@- -==++++#%%%%%@@@%#=:-::::::::::--
+######+===--:::::::::::*@+  ::---:::+##%@@%*=-:::::::::::::-
+*#####*++++=-::::::::::+#*- :..::.  :+*##+=-::::::::::::::::
+=*#####****+==-::::::::-***-.......:::==--::::::::::::::::::
+==*#######*+==-:::::::::=#**-...::::.:-::::::::::.::::::::::
+===+*####**+-::::::::::. +*#*:..:--:--:::::...::..::::::::::
+==-=****++=-:::::::::::  :**#*-...:--::::::...::..::::::::::
+==--+++---::::::::::::.   =*##*-::--::::::.........:::..::::
++=-----:::::::::::::-=     *####=-:::::::.........:.....::::
++=---:::::::::::::.-#@#=   -*##%+::::::::..............:::::
+*====-::::::::::::=#@@@@%*::+*#%%#+::::.................::::
+*++++==-:::::::::=#@@@@@@@@%%%%@@@@#+-:.................::::
+*+=+++==-:::::::=%@%@@@@@@@@@@@@@@@@@#+-:...............:.::
+*+===-==-::::::+%@@@@%%@@@@@@@@@@@@@@@@%#+=:...............:
++=---::::::::-*%@%@@@@@%@@@@@@@@@@@@@@@@@@%#*-..............
+=-::::::::::=#%@%%%@@@@@%@@@@@@@@@@@@@@@@%%@@%=.............
+==-:::::::-+%%%%%%%%%@@@@%@@@@@@@@@@@@@@@%%%%@%:     .......
+++=-:::::-*%%%%%%%%%%%%%%@@@@@@@@@%@@@@@%%%%%@@+..    ......
+++=-::::-#%%%%%%%%%%%%%%%%@@@%@@@@%@@@@@@%%@@@@%:     ......
+-----:::*%%%%%%%%%%%%%%%%%%%@@@@@@%@@@@@@%@@%@@@+..    .....
+::-::::*@%%%%%%%%%%%%%%%%%%%%@@@@%@@%@@@@@@@%@@@%:.    .....
+::::::-%@%%%%%%%%@@%%%%%%%%%%%@@@#%@@@@@@@@@%@@@@=.... .....
+::::::-%@@%%%%%%@@@@%%%%%%%%%%%%@#%@@@@@@@@@@%@@@+.........:
+::::::-%@@@@%%%%@@@@%%%%%%%%%%%%@@%@@@@@@@@@@@@@@#:........:
+::::::-%@@@@%%@@@@@@@%%%%%%%%%%%%%%@@@@@@@@@@@@@@%-........:
+::::::-%@@@@@@@@@@@@@%%%%%%%%%%%%@@%@@@@@@@@@@@@@@=.......::
+::::::-%@@@@@@@@@@@@@@%%%%%%%%%%%%%%%@@@@@@@@@@@@@*.......::
+:::---=@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%@@@@@@@@@@@@#:.....:::
+:::---=@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%@@@@@@@@@@@@%-.....:::
+:::---=@@@@@@@@@@@@@@@@%%%%%%%%%%%%%@@@@@@@@@@@@@@@=......::
+:-----=%@@@@@@@@@@@@@@@%%%%%%%%%%%%%%@@@@@@@@@@@@@@*....:::-
+::-----%@@@@@@@@@@@@@@@@@@%%%%%%%%%%%@@@@@@@@@@@@@@#:...:::-
+-:::::-#@%@@@@%@@@@%@@@@%%%%%%%@@%%%%@@@@@@@@@@@@@@@=:::::::
+--::::-#@%@@@@@@@@@@@@@@%%@%%%%@@%%%%@@@@@@@@@@@@@@@*:::::::
+---::--*@@@@@@@@@@@@@@@@%%@@%%%@@@%%%@@@@@@@@@@@@@@@#::::::-
+---:---*@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@@@@@@@@@@@%=:-----
+-------*@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@*------
+-------*@@@@@@@@%%@@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@#------
+===----*@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@@@@@@@@@@@@@%=-----
+===--==*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*-=---
+===----+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-=---
+</pre>
+
+</td>
+<td valign="top">
 
 Backend dev. Hyderabad. 3rd year. I write code that works, ships, and doesn't need me to explain it.
 
 Node.js, Socket.IO, Java, real-time systems, DSA daily.
 
 Looking for backend internships.
+
+</td>
+</tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -143,15 +242,9 @@ it got done.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harshith1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=F5A623&include_all_commits=true&count_private=true&ring_color=F5A623" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harshith1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=F5A623&include_all_commits=true&count_private=true&ring_color=F5A623" alt="Harshith1702 GitHub stats" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harshith1702&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&langs_count=6" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harshith1702&theme=github-dark&hide_border=true&background=000000&ring=F5A623&fire=F5A623&currStreakLabel=aaaaaa&sideLabels=888888&currStreakNum=ffffff&sideNums=cccccc&dates=555555)](https://git.io/streak-stats)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Harshith1702&theme=onestar&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Harshith1702)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshith1702&bg_color=000000&color=888888&line=F5A623&point=ffffff&area=true&area_color=1a1206&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Harshith1702)
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harshith1702&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&langs_count=6" alt="Top languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshith1702/Harshith1702/output/github-contribution-grid-snake-dark.svg"/>
@@ -175,10 +268,12 @@ it got done.
 
 <div align="center">
 
+*i find people exhausting. code, less so.*
+
 *open to backend internships. open to interesting problems. not open to small talk.*
 
 *profile views don't matter. projects do.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=60&section=footer" alt="" />
