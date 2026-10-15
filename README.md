@@ -9,7 +9,7 @@
 i build things. they work. that's it.
 
 <!-- LEETCODE-STATS:START -->
-`465 solved` · `1577 rating` · synced `Oct 14, 2026`
+`465 solved` · `1577 rating` · synced `Oct 15, 2026`
 <!-- LEETCODE-STATS:END -->
 
 </div>
