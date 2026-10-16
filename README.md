@@ -8,6 +8,8 @@
 
 i build things. they work. that's it.
 
+[harshith.dev.work@gmail.com](mailto:harshith.dev.work@gmail.com) · building [grindlens.dev](https://grindlens.dev) · [x.com/harshith_irl](https://x.com/harshith_irl)
+
 <!-- LEETCODE-STATS:START -->
 `465 solved` · `1577 rating` · synced `Oct 15, 2026`
 <!-- LEETCODE-STATS:END -->
