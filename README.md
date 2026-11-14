@@ -9,3 +9,9 @@
 <img src="https://count.getloli.com/@Harshith1702?name=Harshith1702&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="profile views">
 
 </div>
+
+<p align="center">
+  <a href="https://harshithp.me">harshithp.me</a> ·
+  <a href="https://grindlens.dev">GrindLens</a> ·
+  <a href="https://www.linkedin.com/in/harshith-padakanti/">LinkedIn</a>
+</p>
